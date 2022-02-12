@@ -1,7 +1,7 @@
 # Notes on Personal Finance
 
 <!-- vscode-markdown-toc -->
-* 1. [免责声明](#)
+* 1. [Disclaimer](#Disclaimer)
 * 2. [Tax](#Tax)
 * 3. [Insurance](#Insurance)
 	* 3.1. [Medical Insurance (医保)](#MedicalInsurance)
@@ -25,7 +25,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-##  1. <a name=''></a>免责声明
+##  1. <a name='Disclaimer'></a>Disclaimer
 
 <span style="color:red"> **投资有风险，入市需谨慎。本文系个人笔记，如有理财需求，请咨询专业人士!!!**</span>
 
