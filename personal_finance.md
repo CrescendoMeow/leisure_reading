@@ -1,18 +1,20 @@
 # Notes on Personal Finance
 
 <!-- vscode-markdown-toc -->
-* 1. [免责声明](#disclaimer)
+* 1. [免责声明](#)
 * 2. [401K, IRA, and Roth IRA](#KIRAandRothIRA)
-  * 2.1. [References](#References)
-  * 2.2. [401K (Tax-Advantaged Accounts / Employer Retirement Plan)](#KTax-AdvantagedAccountsEmployerRetirementPlan)
-  * 2.3. [IRA (Individual Retirement Account)](#IRAIndividualRetirementAccount)
-  * 2.4. [HSA, Health Saving Account](#HSAHealthSavingAccount)
+	* 2.1. [References](#References)
+	* 2.2. [401K (Tax-Advantaged Accounts / Employer Retirement Plan)](#KTax-AdvantagedAccountsEmployerRetirementPlan)
+	* 2.3. [IRA (Individual Retirement Account)](#IRAIndividualRetirementAccount)
+	* 2.4. [HSA, Health Saving Account](#HSAHealthSavingAccount)
 * 3. [Bond, Stock, and Fund](#BondStockandFund)
-  * 3.1. [References](#References-1)
-  * 3.2. [Bond](#Bond)
-  * 3.3. [Stock](#Stock)
-  * 3.4. [Fund](#Fund)
-* 4. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReporth)
+	* 3.1. [References](#References-1)
+	* 3.2. [Bond](#Bond)
+	* 3.3. [Stock](#Stock)
+	* 3.4. [Fund](#Fund)
+* 4. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReport)
+	* 4.1. [4.1 Reference](#Reference)
+	* 4.2. [4.2 Essential Components](#EssentialComponents)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -20,7 +22,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-##  1. <a name='disclaimer'></a>免责声明
+##  1. <a name=''></a>免责声明
 
 <span style="color:red"> **投资有风险，入市需谨慎。本文系个人笔记，如有理财需求，请咨询专业人士!!!**</span>
 
@@ -92,7 +94,13 @@
   - Different from Mutual Funds, ETFs trade on the exchange just like stocks, which means you can buy and sell them during the trading day.
   - ETFs can be either indexed (i.e. passively managed) or actively managed.
 
-##  4. <a name='HowtoEfficientlyReadanAnnualReport'></a>[How to Efficiently Read an Annual Report](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp)
+##  4. <a name='HowtoEfficientlyReadanAnnualReport'></a>How to Efficiently Read an Annual Report
+
+###  4.1. <a name='Reference'></a>Reference
+
+- [How to Efficiently Read an Annual Report](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp)
+
+###  4.2. <a name='EssentialComponents'></a>Essential Components
 
 Often, the most essential components of the annual 10-K filing include:
 
