@@ -13,8 +13,8 @@
 	* 3.3. [Stock](#Stock)
 	* 3.4. [Fund](#Fund)
 * 4. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReport)
-	* 4.1. [4.1 Reference](#Reference)
-	* 4.2. [4.2 Essential Components](#EssentialComponents)
+	* 4.1. [Reference](#Reference)
+	* 4.2. [Essential Components](#EssentialComponents)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
