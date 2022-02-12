@@ -57,7 +57,7 @@
 
 ###  4.3. <a name='IRAIndividualRetirementAccount'></a>IRA (Individual Retirement Account)
 
-- 可以用Roth ISA买股票，用Mega Backdoor Roth IRA来提高免税额度？
+- 可以用Roth IRA买股票，用Mega Backdoor Roth IRA来提高免税额度？
 - IRA作为个人退休账户，主要来源于转账，接收雇主养老金计划的转账，例如来自401k的转账，而非来自于自己工资中的投入和储蓄。
 
 ###  4.4. <a name='HSAHealthSavingAccount'></a>HSA, Health Saving Account
