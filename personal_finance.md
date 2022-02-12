@@ -16,7 +16,7 @@
 	* 5.3. [Stock](#Stock)
 	* 5.4. [Fund](#Fund)
 * 6. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReport)
-	* 6.1. [References](#References-1)
+	* 6.1. [References](#References-2)
 	* 6.2. [Essential Components](#EssentialComponents)
 
 <!-- vscode-markdown-toc-config
@@ -114,7 +114,7 @@
 
 ##  6. <a name='HowtoEfficientlyReadanAnnualReport'></a>How to Efficiently Read an Annual Report
 
-###  6.1. <a name='References-1'></a>References
+###  6.1. <a name='References-2'></a>References
 
 - [How to Efficiently Read an Annual Report](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp)
 
