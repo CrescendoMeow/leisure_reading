@@ -3,21 +3,22 @@
 <!-- vscode-markdown-toc -->
 * 1. [Disclaimer](#Disclaimer)
 * 2. [Tax](#Tax)
-* 3. [Insurance](#Insurance)
-	* 3.1. [Medical Insurance (医保)](#MedicalInsurance)
-* 4. [401K, IRA, and Roth IRA](#KIRAandRothIRA)
-	* 4.1. [References](#References)
-	* 4.2. [401K (Tax-Advantaged Accounts / Employer Retirement Plan)](#KTax-AdvantagedAccountsEmployerRetirementPlan)
-	* 4.3. [IRA (Individual Retirement Account)](#IRAIndividualRetirementAccount)
-	* 4.4. [HSA, Health Saving Account](#HSAHealthSavingAccount)
-* 5. [Bond, Stock, and Fund](#BondStockandFund)
-	* 5.1. [References](#References-1)
-	* 5.2. [Bond](#Bond)
-	* 5.3. [Stock](#Stock)
-	* 5.4. [Fund](#Fund)
-* 6. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReport)
-	* 6.1. [References](#References-2)
-	* 6.2. [Essential Components](#EssentialComponents)
+* 3. [Bank Account: Check and Saving](#BankAccount:CheckandSaving)
+* 4. [Insurance](#Insurance)
+	* 4.1. [Medical Insurance (医保)](#MedicalInsurance)
+* 5. [401K, IRA, and Roth IRA](#KIRAandRothIRA)
+	* 5.1. [References](#References)
+	* 5.2. [401K (Tax-Advantaged Accounts / Employer Retirement Plan)](#KTax-AdvantagedAccountsEmployerRetirementPlan)
+	* 5.3. [IRA (Individual Retirement Account)](#IRAIndividualRetirementAccount)
+	* 5.4. [HSA, Health Saving Account](#HSAHealthSavingAccount)
+* 6. [Bond, Stock, and Fund](#BondStockandFund)
+	* 6.1. [References](#References-1)
+	* 6.2. [Bond](#Bond)
+	* 6.3. [Stock](#Stock)
+	* 6.4. [Fund](#Fund)
+* 7. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReport)
+	* 7.1. [References](#References-1)
+	* 7.2. [Essential Components](#EssentialComponents)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -36,44 +37,48 @@
 - 1095: 保险
 - 1099-INT: 投资收入
 
-##  3. <a name='Insurance'></a>Insurance
+##  3. <a name='BankAccount:CheckandSaving'></a>Bank Account: Check and Saving
 
-###  3.1. <a name='MedicalInsurance'></a>Medical Insurance (医保)
+- [ACH Transfer](https://www.investopedia.com/ach-transfers-what-are-they-and-how-do-they-work-4590120): Transfer through Automated Clearing House (ACH) Network.
+
+##  4. <a name='Insurance'></a>Insurance
+
+###  4.1. <a name='MedicalInsurance'></a>Medical Insurance (医保)
 
 - Prescription vs OTC
   - 处方药(Prescription): 医保可能cover
   - 非处方药(Over-The-Counter, OTC): 医保一般不cover
 
-##  4. <a name='KIRAandRothIRA'></a>401K, IRA, and Roth IRA
+##  5. <a name='KIRAandRothIRA'></a>401K, IRA, and Roth IRA
 
-###  4.1. <a name='References'></a>References
+###  5.1. <a name='References'></a>References
 
 - [401(k), Roth 401(k), Traditional IRA, Roth IRA, HSA](https://www.uscreditcardguide.com/401k-roth-401k-traditional-ira-roth-ira-hsa/
 )
 
-###  4.2. <a name='KTax-AdvantagedAccountsEmployerRetirementPlan'></a>401K (Tax-Advantaged Accounts / Employer Retirement Plan)
+###  5.2. <a name='KTax-AdvantagedAccountsEmployerRetirementPlan'></a>401K (Tax-Advantaged Accounts / Employer Retirement Plan)
 
 - 可以无脑存到company match upper-bound?
 
-###  4.3. <a name='IRAIndividualRetirementAccount'></a>IRA (Individual Retirement Account)
+###  5.3. <a name='IRAIndividualRetirementAccount'></a>IRA (Individual Retirement Account)
 
 - 可以用Roth IRA买股票，用Mega Backdoor Roth IRA来提高免税额度？
 - IRA作为个人退休账户，主要来源于转账，接收雇主养老金计划的转账，例如来自401k的转账，而非来自于自己工资中的投入和储蓄。
 
-###  4.4. <a name='HSAHealthSavingAccount'></a>HSA, Health Saving Account
+###  5.4. <a name='HSAHealthSavingAccount'></a>HSA, Health Saving Account
 
 - 如果不是恰好遇到HDHP，则没有意义??
 
-##  5. <a name='BondStockandFund'></a>Bond, Stock, and Fund
+##  6. <a name='BondStockandFund'></a>Bond, Stock, and Fund
 
-###  5.1. <a name='References-1'></a>References
+###  6.1. <a name='References-1'></a>References
 
 - [Bonds vs Stocks vs Mutual Funds](https://www.covenantwealthadvisors.com/post/bonds-vs-stocks-vs-mutual-funds)
 - [Difference between bond market and stock market](https://www.investopedia.com/ask/answers/09/difference-between-bond-stock-market.asp)
 - [Exchange vs Over-the-Counter (OTC)](https://www.investopedia.com/terms/o/otc.asp)
 - [How the stock market works?](https://www.investopedia.com/articles/investing/082614/how-stock-market-works.asp)
 
-###  5.2. <a name='Bond'></a>Bond
+###  6.2. <a name='Bond'></a>Bond
 
 - It can be viewed as a loan to investors. The investor does not receive stock ownership in the company, but they do receive an interest payment.
 - “Fixed-income Assets”
@@ -81,7 +86,7 @@
 - But that doesn’t make bonds risk free. Bonds are rated for credit quality by a credit rating agency such as Moody’s or Standard and Poor’s to help investors gauge their risk. Investment-grade bonds typically have a rating of A, AA, or AAA.
 - Pay attention to the commission or markup when buying the bond. It may not as transparent as that when you buy stock or mutual fund.
 
-###  5.3. <a name='Stock'></a>Stock
+###  6.3. <a name='Stock'></a>Stock
 - When you buy stock, you buy ownership in a company and in effect tie your financial future to theirs. 
 - Stocks tend to be riskier than bonds because you are not guaranteed that the stock will do well, but you also have the opportunity to enjoy greater growth on your money.
 - Initial Public Offering (IPO): The first time a company sells stock.
@@ -89,7 +94,7 @@
   - Conservative investors may prefer to generate most of their returns from dividends rather than capital gains. They would prefer stocks which have a long history of paying substantial dividends.
   - Aggressive investors may prefer to generate most of their returns from capital gains rather than dividends. They should have a higher tolerance of risk.
 
-###  5.4. <a name='Fund'></a>Fund
+###  6.4. <a name='Fund'></a>Fund
 
 - Mutual Fund
   - The investors pool their money to buy a collection or portfolio of assets. The money in the pool is managed by a fund manager who decides what assets to buy and sell based on the fund’s objectives.
@@ -112,13 +117,13 @@
   - Different from Mutual Funds, ETFs trade on the exchange just like stocks, which means you can buy and sell them during the trading day.
   - ETFs can be either indexed (i.e. passively managed) or actively managed.
 
-##  6. <a name='HowtoEfficientlyReadanAnnualReport'></a>How to Efficiently Read an Annual Report
+##  7. <a name='HowtoEfficientlyReadanAnnualReport'></a>How to Efficiently Read an Annual Report
 
-###  6.1. <a name='References-2'></a>References
+###  7.1. <a name='References-1'></a>References
 
 - [How to Efficiently Read an Annual Report](https://www.investopedia.com/articles/basics/10/efficiently-read-annual-report.asp)
 
-###  6.2. <a name='EssentialComponents'></a>Essential Components
+###  7.2. <a name='EssentialComponents'></a>Essential Components
 
 Often, the most essential components of the annual 10-K filing include:
 
