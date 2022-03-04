@@ -22,7 +22,7 @@ To list the museum shops I've visited before or I hope to visit some day.
 ### Vienna
 - [Kunsthistorisches Museum Wien](https://shop.khm.at/en/)
 
-## America
+## North America
 
 ### Chicago
 - [The Art Institute of Chicago](https://shop.artic.edu/)
