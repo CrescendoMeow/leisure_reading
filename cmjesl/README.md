@@ -1,6 +1,6 @@
 ## CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
-The files here contain the random pieces in my ESL life. Some pieces are tech/academia-related, others are appliable for general audience. 
+The files here contain the random pieces in my ESL life. Some pieces are related to research or general technology in computer science, others are appliable for more general audience. 
 
 Inspired by the naming philosophy of academic journals, 
 - `cmjesl_vol_20xx.md` stores the pieces in the corresponding year. 
