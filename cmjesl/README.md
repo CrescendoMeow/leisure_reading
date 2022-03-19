@@ -1,6 +1,8 @@
 ## CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
-The files under this folder record the random pieces in my ESL life. Some pieces are tech/academia-related; others are appliable for general audience. Inspired by the naming philosophy of academic journals, 
+The files here contain the random pieces in my ESL life. Some pieces are tech/academia-related, others are appliable for general audience. 
+
+Inspired by the naming philosophy of academic journals, 
 - `cmjesl_vol_20xx.md` stores the pieces in the corresponding year. 
 - `cmjesl_vol_sp_yyyy.md` curates the special topics.
 
