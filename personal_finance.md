@@ -19,6 +19,8 @@
 * 7. [How to Efficiently Read an Annual Report](#HowtoEfficientlyReadanAnnualReport)
 	* 7.1. [References](#References-1)
 	* 7.2. [Essential Components](#EssentialComponents)
+* 8. [Startup and IPO](#StartupandIPO)
+  * 8.1. [Terminology](#Terminology)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -141,3 +143,10 @@ Often, the most essential components of the annual 10-K filing include:
   - balance sheet
   - statement of income
 - Item 7: Management's Discussion and Analysis of the Financial Condition
+
+##  8. <a name='StartupandIPO'></a>Startup and IPO
+
+### 8.1 <a name='Terminology'></a>Terminology
+
+- [Difference between Private Equity (PE, 私募) and Venture Capital (VC, 风投)](https://www.investopedia.com/ask/answers/020415/what-difference-between-private-equity-and-venture-capital.asp#:~:text=Private%20equity%20is%20capital%20invested,potential%20for%20long%2Dterm%20growth.)
+- [Difference between Venture Capital (VC, 风投) and Investment Bank (投行)](https://www.fool.com/knowledge-center/differences-in-venture-capital-vs-investment-banki.aspx)
