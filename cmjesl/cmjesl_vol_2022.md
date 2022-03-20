@@ -2,6 +2,12 @@
 
 ### March, 2022
 
+03/20/2022-a 我今天才知道，windowsill是**窗台**的意思。
+
+03/19/2022-a 今天学了friction(摩擦)的一个近义词，i.e. attrition，虽然还没get这两个词之间有啥细微的差别。
+
+03/19/2022-b 我今天才意识到，`nuance (n.) == subtle (adj.) difference`，之前一直误以为nuance也是形容词。[[Ref]](https://forum.wordreference.com/threads/nuance-subtle-difference.624844/)
+
 03/10/2022-a 我今天才注意到，essence和essential的重音不一样。
 
 03/10/2022-b 学了一个新句子，i.e. When the winds of change blow, some people build walls; and others build windmills. 至于这句话到底是中国谚语还是欧洲谚语，[已不可考](https://www.zhihu.com/question/38405324)了。以及学会了“拥抱变化、站在风口上”的英文说法，i.e. spot the trend (or the wind), and ride it.
