@@ -8,6 +8,8 @@
 
 03/20/2022-c 第一次看到有人在文章里把sweet point直译成 **甜点**🍮，笑死我了...
 
+03/20/2022-d 我今天才知道，与tape-out相对应的还有一个terminology叫tape-in [[Ref]](https://www.quora.com/What-do-tape-in-and-tape-out-mean-in-electronic-design)
+
 03/19/2022-a 今天学了friction(摩擦)的一个近义词，i.e. attrition，虽然还没get这两个词之间有啥细微的差别。
 
 03/19/2022-b 我今天才意识到，`nuance (n.) == subtle (adj.) difference`，之前一直误以为nuance也是形容词。[[Ref]](https://forum.wordreference.com/threads/nuance-subtle-difference.624844/)
