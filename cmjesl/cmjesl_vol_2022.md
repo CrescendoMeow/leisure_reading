@@ -4,6 +4,8 @@
 
 03/20/2022-a 我今天才知道，windowsill是**窗台**的意思。
 
+03/20/2022-b 我今天才把UC Merced这个学校和Mercedes Benz这个汽车品牌relate起来。以及UC Merced的位置有点偏呀...
+
 03/19/2022-a 今天学了friction(摩擦)的一个近义词，i.e. attrition，虽然还没get这两个词之间有啥细微的差别。
 
 03/19/2022-b 我今天才意识到，`nuance (n.) == subtle (adj.) difference`，之前一直误以为nuance也是形容词。[[Ref]](https://forum.wordreference.com/threads/nuance-subtle-difference.624844/)
