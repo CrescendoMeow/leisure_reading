@@ -4,6 +4,8 @@
 
 03/24/2022-a 我今天才知道，**未成年人**在英语里的对应的单词是**minor**。
 
+03/22/2022-a 今天去看dental跟牙医闲扯时，本来想说medical electronics结果嘴瓢说成bioinformatics。
+
 03/20/2022-a 我今天才知道，windowsill是**窗台**的意思。
 
 03/20/2022-b 我今天才把UC Merced这个学校和Mercedes Benz这个汽车品牌relate起来。以及UC Merced的位置有点偏呀...
