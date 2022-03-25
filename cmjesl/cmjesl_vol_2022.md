@@ -46,3 +46,20 @@
 
 03/02/2022-b 当我认识assimilate (同化)这个单词之后，突然觉得similar和simulate这两个单词之间应该有某种微妙的关系。另，我总是会念混simulate和stimulate.
 
+### Janurary, 2021
+
+01/26/2022 突然发现自己会弄混anecdote和antidote
+
+01/24/2022 学了一个新词 all the rage (风靡一时).
+
+01/23/2022 总是会错把oblivious (不经意的) 错当成obvious (显然的)，以及和oblivious有关系的几个概念 [[Oblivious Data Structure]](https://en.wikipedia.org/wiki/Oblivious_data_structure) [[Cache Oblivious Algorithm]](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)
+
+01/22/2022-a 我今天才知道blob是binary large object的缩写
+
+01/22/2022-b 我今天才发现自己会搞混weird, wired, wield这三个单词
+
+01/16/2022 我今天才知道，Jazz (爵士乐) 这个单词，跟“公侯伯子男”之类的爵位没半毛钱关系。
+
+01/10/2022 我突然意识到bump, hump, lump这三个单词可以一起记。
+
+01/08/2022 学了一个新词叫hit and miss，盲猜跟trial and test意思差不多
