@@ -2,7 +2,7 @@
 
 ### December, 2019
 
-12/26/2019 heir和herb的h都不发音。
+12/26/2019 heir, herb, hermes的h都不发音；而herbicide的h却发音。
 
 12/23/2019 我今天才知道iron这个词我一直读的不对，或许是因为我先认识的ironic这个词。
 
