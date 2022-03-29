@@ -17,6 +17,6 @@ The volume naming is inspired by the naming philosophy of academic journals, i.e
 - `cmjesl_vol_20xx.md` stores the pieces in the corresponding year.
 - `cmjesl_vol_sp_yyyy.md` curates the special topics.
 
-Mr. Ao Li (李敖) wrote a book titled [《坐牢家爸爸给女儿的八十封信》](https://book.douban.com/subject/1073072/) in 1970s. That book includes a lot of interesting essays about the nuance of English and Chinese. This *fake* journal edited by CrescendoMeow tries to imitate Mr. Ao Li's old book naively yet sincerely.
+Mr. Ao Li (李敖), a social activist from Taiwan, wrote a book titled [《坐牢家爸爸给女儿的八十封信》](https://book.douban.com/subject/1073072/) in 1970s. That book includes a lot of interesting essays about the nuance of English and Chinese. This *fake* journal edited by CrescendoMeow tries to imitate Mr. Ao Li's old book naively yet sincerely.
 
 If you have any comments or suggestions, welcome to leave your messages under the corresponding thread in the `Discussions`.
