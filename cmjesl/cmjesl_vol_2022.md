@@ -2,6 +2,8 @@
 
 ### March, 2022
 
+03/29/2022-a 学了两个新词，i.e. **a culture of entitlement** v.s. **a culture of merit**.
+
 03/24/2022-a 我今天才知道，**未成年人**在英语里的对应的单词是**minor**。
 
 03/22/2022-a 今天去看dental跟牙医闲扯时，本来想说medical electronics结果嘴瓢说成bioinformatics。
