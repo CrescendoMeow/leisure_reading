@@ -4,6 +4,8 @@
 
 03/30/2022-a 我今天才知道，reasoanble在形容人的时候，有**通情达理**的意思。
 
+03/30/2022-b 我今天才注意到，applicant和application的重音不一样。
+
 03/29/2022-a 学了两个新词，i.e. **a culture of entitlement** v.s. **a culture of merit**.
 
 03/24/2022-a 我今天才知道，**未成年人**在英语里的对应的单词是**minor**。
