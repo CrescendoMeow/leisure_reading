@@ -102,7 +102,7 @@
 
 06/04/2019 我今天才知道strategy和strategic的重音不一样。
 
-06/03/2019-a 我今天才知道reinforce的正确断词方法是rein-force，而不是re-inforce，因为rein是缰绳的意思。
+06/03/2019-a 我今天才知道reinforce的正确断词方法是rein-force，而不是re-inforce，因为rein是缰绳的意思。另外，学习了一下rein和reign的区别 [[Ref]](https://www.dictionary.com/e/reign-vs-rein/)
 
 06/03/2019-b 我今天才知道董先森名字的正确拼音写法是Chee-Hwa Tung
 
