@@ -95,9 +95,9 @@
 - Stock returns arise from (1) capital gains (i.e. buying at low and selling at high) and (2) dividends (i.e. the share of profit that a company distributes to its shareholders)
   - Conservative investors may prefer to generate most of their returns from dividends rather than capital gains. They would prefer stocks which have a long history of paying substantial dividends.
   - Aggressive investors may prefer to generate most of their returns from capital gains rather than dividends. They should have a higher tolerance of risk.
-  - Tools
-    - [Yahoo! Finance](https://finance.yahoo.com/)
-    - [Trading View](https://www.tradingview.com/chart/)
+- Tools
+  - [Yahoo! Finance](https://finance.yahoo.com/)
+  - [Trading View](https://www.tradingview.com/chart/)
 
 ###  6.4. <a name='Fund'></a>Fund
 
