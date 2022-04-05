@@ -2,9 +2,11 @@
 
 ### April, 2022
 
-04/02-2022-a 我今天才知道，和entrepreneur对应的还有一个单词叫intrapreneur。
+04/05/2022-a 我今天才知道，cupped hands是指**掬**这个动作。
 
-04/02-2022-b 我今天才发现，**自欺欺人**对应的英语里的讲法应该是**rationalization**。
+04/02/2022-a 我今天才知道，和entrepreneur对应的还有一个单词叫intrapreneur。
+
+04/02/2022-b 我今天才发现，**自欺欺人**对应的英语里的讲法应该是**rationalization**。
 
 04/01/2022-a 我总是记不住 **sublime** (v. 物理状态变化的那个“升华”; n.&adj. 崇高)和 **subliminal** (adj. 潜意识的)。
 
