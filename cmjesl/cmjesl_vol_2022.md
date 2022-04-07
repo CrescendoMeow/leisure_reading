@@ -2,7 +2,7 @@
 
 ### April, 2022
 
-04/07/2022-a 我今天才知道，“嘴瓢了”在英语里的说法是[[Freudian Slip]](https://en.wikipedia.org/wiki/Freudian_slip).
+04/07/2022-a 我今天才知道，“嘴瓢了”在英语里的说法是[Freudian Slip](https://en.wikipedia.org/wiki/Freudian_slip).
 
 04/05/2022-a 我今天才知道，cupped hands是指**掬**这个动作。
 
