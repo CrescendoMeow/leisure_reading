@@ -2,7 +2,7 @@
 
 ### April, 2022
 
-04/09/2022-a 我今天才知道，geology和geography的区别 [[Ref]](https://keydifferences.com/difference-between-geography-and-geology.html)
+04/09/2022-a 我今天才知道，geology和geography的区别 [[Ref0]](https://keydifferences.com/difference-between-geography-and-geology.html) [[Ref1]](https://www.quora.com/Why-does-Sheldon-Cooper-say-geology-isnt-a-real-science)
 
 04/09/2022-b 我今天才知道，[troll](https://en.wikipedia.org/wiki/Internet_troll)这个词是啥意思。
 
