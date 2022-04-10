@@ -4,6 +4,8 @@
 
 04/09/2022-a 我今天才知道，geology和geography的区别 [[Ref]](https://keydifferences.com/difference-between-geography-and-geology.html)
 
+04/09/2022-b 我今天才知道，[troll](https://en.wikipedia.org/wiki/Internet_troll)这个词是啥意思。
+
 04/07/2022-a 我今天才知道，“嘴瓢了”在英语里的说法是[Freudian Slip](https://en.wikipedia.org/wiki/Freudian_slip).
 
 04/05/2022-a 我今天才知道，cupped hands是指**掬**这个动作。
