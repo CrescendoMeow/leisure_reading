@@ -6,6 +6,8 @@
 
 04/17/2022-b 我今天才把commit, commitment, commission, committee, committal这几个词联系起来 [[Ref]](https://blog.harwardcommunications.com/2018/05/14/the-difference-between-commitment-and-commission-and-committee-and-committal/)
 
+04/17/2022-c 我今天才知道，除了honeymoon之外还有babymoon的说法（你们歪果仁可真会找名目出去玩呐！
+
 04/16/2022-a 我今天才注意到，自己有时会弄混guide和guard，以及与之相关的一个词guardian (监护人) [[Ref]](https://wikidiff.com/guard/guide)
 
 04/09/2022-a 我今天才知道，geology和geography的区别 [[Ref0]](https://keydifferences.com/difference-between-geography-and-geology.html) [[Ref1]](https://www.quora.com/Why-does-Sheldon-Cooper-say-geology-isnt-a-real-science)
