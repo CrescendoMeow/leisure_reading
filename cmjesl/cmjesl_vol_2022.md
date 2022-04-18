@@ -8,6 +8,8 @@
 
 04/17/2022-c 我今天才知道，除了honeymoon之外还有babymoon的说法（你们歪果仁可真会找名目出去玩呐！
 
+04/17/2022-d 和D同学讨论，“社会”、“强运”、“元气”这几个词怎么翻译，未果。[[Ref]](https://www.e2say.com/articles/2472/)
+
 04/16/2022-a 我今天才注意到，自己有时会弄混guide和guard，以及与之相关的一个词guardian (监护人) [[Ref]](https://wikidiff.com/guard/guide)
 
 04/09/2022-a 我今天才知道，geology和geography的区别 [[Ref0]](https://keydifferences.com/difference-between-geography-and-geology.html) [[Ref1]](https://www.quora.com/Why-does-Sheldon-Cooper-say-geology-isnt-a-real-science)
