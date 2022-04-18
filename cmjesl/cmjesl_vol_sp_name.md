@@ -14,6 +14,6 @@
 - 每当我想到Julian（于连）和Juliet（茱丽叶）是同名不同款的时候，那两个虚拟的时空，便在我的头脑里，串台了。
 - 当我把Fantasia这个单词同“芬达”这个译名联系起来时，突然对这种常见的饮料产生了某种微妙的情愫。
 - 当我认识monetize这个单词之后，突然觉得Monet（莫奈）这个名字没那么罗曼蒂克了。
-Steve(n)和Stephen是同一个名字。
+- Steve(n)和Stephen是同一个名字。
 - 当我知道Andy is short for Andrew之后，每次看到安卓小人时总会想到小时候英语课本上那个叫Andy的金发男孩。
 - Michele (pronounced [miˈkɛːle])作男生名的时候，是意大利语版的Michael。如果你觉得creepy，就想想Michelangelo (米开朗基罗)。Michele (pronounced /mɪˈʃɛl/ mi-SHEL)作女生名的时候, 对应法语名Michèle.
