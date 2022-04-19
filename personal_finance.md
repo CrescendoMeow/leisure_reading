@@ -122,6 +122,7 @@
     - index fund:
       - Different from other mutual fund, index fund does not hire analysts to pick stocks for the fund, the fund manager simply buys the stocks on the index in roughly the same proportion as the underlying index.
       - Usually, Index fund is cheaper to own and trade than other actively managed mutual fund.
+      - Index v.s. Index Fund: You cannot directly invest in an index (e.g. DJIA, S&P500, Russell3000), but you can invest in one of the many funds that use it as a benchmark, tracking its composition and performance.
 - Exchange Traded Fund (ETF):
   - Different from Mutual Funds, ETFs trade on the exchange just like stocks, which means you can buy and sell them during the trading day.
   - ETFs can be either indexed (i.e. passively managed) or actively managed.
