@@ -2,6 +2,8 @@
 
 ### April, 2022
 
+04/18/2022-a startup是创业公司，upstart就是暴发户了
+
 04/17/2022-a 学了一个新词，i.e. [salami slicing tactics (切香肠战术)](https://en.wikipedia.org/wiki/Salami_slicing_tactics)
 
 04/17/2022-b 我今天才把commit, commitment, commission, committee, committal这几个词联系起来 [[Ref]](https://blog.harwardcommunications.com/2018/05/14/the-difference-between-commitment-and-commission-and-committee-and-committal/)
