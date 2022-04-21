@@ -2,6 +2,8 @@
 
 ### April, 2022
 
+04/20/2022-a 我今天才把 **escalation** 同 **scale up/out** 联系起来，然而 **escale** 就是 **电子秤** 了
+
 04/18/2022-a startup是创业公司，upstart就是暴发户了
 
 04/17/2022-a 学了一个新词，i.e. [salami slicing tactics (切香肠战术)](https://en.wikipedia.org/wiki/Salami_slicing_tactics)
