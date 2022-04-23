@@ -162,3 +162,4 @@ Often, the most essential components of the annual 10-K filing include:
 ## 9. MacroEconomics
 
 ### 9.1 [Central Bank](https://www.investopedia.com/terms/c/centralbank.asp) and [Monetary Policy](https://www.investopedia.com/video/play/monetary-policy/)
+### 9.2 Government and [Fiscal Policy](https://www.investopedia.com/terms/f/fiscalpolicy.asp)
