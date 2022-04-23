@@ -158,3 +158,7 @@ Often, the most essential components of the annual 10-K filing include:
 
 - [Difference between Private Equity (PE, 私募) and Venture Capital (VC, 风投)](https://www.investopedia.com/ask/answers/020415/what-difference-between-private-equity-and-venture-capital.asp#:~:text=Private%20equity%20is%20capital%20invested,potential%20for%20long%2Dterm%20growth.)
 - [Difference between Venture Capital (VC, 风投) and Investment Bank (投行)](https://www.fool.com/knowledge-center/differences-in-venture-capital-vs-investment-banki.aspx)
+
+## 9. MacroEconomics
+
+### 9.1 [Central Bank](https://www.investopedia.com/terms/c/centralbank.asp) and [Monetary Policy](https://www.investopedia.com/video/play/monetary-policy/)
