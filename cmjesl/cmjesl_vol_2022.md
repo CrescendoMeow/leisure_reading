@@ -6,6 +6,8 @@
 
 04/30/2022-b 又发现一个一直瞎念的单词，i.e. apex (顶点)。
 
+04/29/2022-a 我今天才知道，**体感游戏** 在英语里叫 motion-sensor/sensing video game.
+
 04/24/2022-a 我今天才知道，mobilization是 **(战争)动员** 的意思。
 
 04/23/2022-a 我今天才发现，我一直会搞混hassle和hustle这两个单词。
