@@ -2,6 +2,8 @@
 
 ### May, 2022
 
+05/03/2022-a 我很早就知道 encore 和 ensemble 开头的 e 都发 `/a/` 的音，然而我今天才把这两个词联系起来。
+
 05/02/2022-a 我今天学了一个新句子，i.e. [Science progresses one funeral at a time](https://en.wikipedia.org/wiki/Planck%27s_principle).
 
 05/01/2022-a 我今天才知道 天然树脂(natural resin)就是动植物的分泌物，比如虫胶、琥珀、生漆、松香、松焦油(pin tar)、天然橡胶等。人工合成的树脂有很多种，远远不只是代替玻璃镜片的树脂镜片。
