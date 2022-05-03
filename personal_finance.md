@@ -126,6 +126,8 @@
 - Exchange Traded Fund (ETF):
   - Different from Mutual Funds, ETFs trade on the exchange just like stocks, which means you can buy and sell them during the trading day.
   - ETFs can be either indexed (i.e. passively managed) or actively managed.
+- Key Features in Consideration When You Plan a Regular Investment
+  - Fractional Share: This makes it possible to invest a fixed number of dollars periodically.
 
 ##  7. <a name='HowtoEfficientlyReadanAnnualReport'></a>How to Efficiently Read an Annual Report
 
