@@ -137,6 +137,6 @@
 
 01/16/2022 我今天才知道，Jazz (爵士乐) 这个单词，跟“公侯伯子男”之类的爵位没半毛钱关系。
 
-01/10/2022 我突然意识到bump, hump, lump这三个单词可以一起记。
+01/10/2022 我突然意识到bump, dump, hump, lump, pump 这五个单词可以一起记。
 
-01/08/2022 学了一个新词叫hit and miss，盲猜跟trial and test意思差不多
+01/08/2022 学了一个新词叫hit and miss，盲猜跟trial and test意思差不多。类似的“A and B”结构的短语，还有mix and match.
