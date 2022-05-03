@@ -1,5 +1,22 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### May, 2022
+
+05/02/2022-a 我今天学了一个新句子，i.e. [Science progresses one funeral at a time](https://en.wikipedia.org/wiki/Planck%27s_principle).
+
+05/01/2022-a 我今天才知道 天然树脂(natural resin)就是动植物的分泌物，比如虫胶、琥珀、生漆、松香、松焦油(pin tar)、天然橡胶等。人工合成的树脂有很多种，远远不只是代替玻璃镜片的树脂镜片。
+
+05/01/2022-b poignant这个单词的发音好奇怪。
+
+05/01/2022-c 学了一个新单词tonnage（吨位）。
+
+05/01/2022-d 我今天才发现自己一直搞混了 **tonic (adj.滋补的；n.补品)** 和 **toxic (adj.有毒的)**。
+
+05/01/2022-e 我今天才知道coast有"靠惯性滑行"aka"划水"的意思。
+
+05/01/2022-f 我今天才把hate和hatred联系到一起。
+
+
 ### April, 2022
 
 04/30/2022-a 我今天才知道，**纺织业**英语里对应的是textile这个词。
