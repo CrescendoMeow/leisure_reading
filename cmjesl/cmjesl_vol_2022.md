@@ -2,7 +2,9 @@
 
 ### May, 2022
 
-05/05/2022 我今天才知道 populate 有“填充”的意思。
+05/05/2022-a 我今天才知道 populate 有“填充”的意思。
+
+05/05/2022-b 我今天才意识到，lol既可以是laugh out loud，也可以是league of legends。
 
 05/03/2022-a 我很早就知道 encore 和 ensemble 开头的 e 都发 `/a/` 的音，然而我今天才把这两个词联系起来。
 
