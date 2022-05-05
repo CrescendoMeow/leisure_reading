@@ -108,9 +108,9 @@
 - Mutual Fund
   - The investors pool their money to buy a collection or portfolio of assets. The money in the pool is managed by a fund manager who decides what assets to buy and sell based on the fund’s objectives.
   - Mutual funds may own stocks, but they’re not the same as stocks. When you buy shares in a mutual fund, you don’t actually own shares of the stock it invests in, you own a piece of the fund itself.
-  - “Net Asset Value” (NAV)
+  - [Net Asset Value (NAV)](https://www.investopedia.com/ask/answers/04/032604.asp)
     - it’s calculated by dividing the total value of the assets in the fund’s portfolio by the number of outstanding shares.
-    - Mutual funds aren’t traded on the stock exchange. When you place an order to buy or sell mutual fund shares, the order is filled after the market closes and the NAV is determined.
+    - Mutual funds aren’t traded on the stock exchange. It will not change throughout the day like a stock price; it updates at the end of each trading day. So, a listed NAV price is actually the price as of yesterday's close. But an order you put in will be based on the updated NAV at the end of the current trading day. As a result, you may not know the exact NAV when you buy or sell shares. **When you place an order to buy or sell mutual fund shares, the order is filled after the market closes and the NAV is determined.**
   - Different types of mutual funds: Mutual funds can invest in any asset class, so you can find, i.e.
     - bond funds,
     - stock funds, or equity funds,
