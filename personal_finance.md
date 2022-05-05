@@ -42,6 +42,7 @@
 ##  3. <a name='BankAccount:CheckandSaving'></a>Bank Account: Check and Saving
 
 - [ACH Transfer](https://www.investopedia.com/ach-transfers-what-are-they-and-how-do-they-work-4590120): Transfer through Automated Clearing House (ACH) Network.
+- Never open the accounts for the sign-up bonus or a high APR alone! Keep a question mark there -- Does the bank look reliable? Is there any chance of Ponzi scheme?  
 
 ##  4. <a name='Insurance'></a>Insurance
 
