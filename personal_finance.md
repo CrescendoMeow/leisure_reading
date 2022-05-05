@@ -96,6 +96,7 @@
   - Conservative investors may prefer to generate most of their returns from dividends rather than capital gains. They would prefer stocks which have a long history of paying substantial dividends.
   - Aggressive investors may prefer to generate most of their returns from capital gains rather than dividends. They should have a higher tolerance of risk.
 - Metrics 
+  - [Book Value vs Market Value](https://www.investopedia.com/ask/answers/how-are-book-value-and-market-value-different/)
   - PE ratio and PEG ratio
     - [Using PE ratio and PEG to tell stocks future](https://www.investopedia.com/investing/use-pe-ratio-and-peg-to-tell-stocks-future/)
     - [Historic S&P 500 PE Ratio](https://www.multpl.com/s-p-500-pe-ratio)
