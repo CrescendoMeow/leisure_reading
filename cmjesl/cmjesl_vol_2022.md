@@ -2,6 +2,8 @@
 
 ### May, 2022
 
+05/06/2022-a 我今天才知道，beef还有“complaint”的意思。
+
 05/05/2022-a 我今天才知道 populate 有“填充”的意思。
 
 05/05/2022-b 我今天才意识到，lol既可以是laugh out loud，也可以是league of legends。
