@@ -16,6 +16,7 @@
 - Michele (pronounced [miˈkɛːle])作男生名的时候，是意大利语版的Michael。如果你觉得creepy，就想想Michelangelo (米开朗基罗)。Michele (pronounced /mɪˈʃɛl/ mi-SHEL)作女生名的时候, 对应法语名Michèle.
 - 当我认识monetize这个单词之后，突然觉得Monet（莫奈）这个名字没那么罗曼蒂克了。
 - 当我知道pierce有“刺破 穿透”的意思之后，就莫名觉得Pierce这个名字非常aggressive。
+- 当我知道smith本来是“铁匠”的意思之后，再看电影 *Mr.&Mrs. Smith*，总会脑补轮着大锤的雷神托尔。
 - Steve(n)和Stephen是同一个名字。
 - Sophie这个名字似乎有两张面孔，一面是philosophy（爱智慧），另一面是sophistry（诡辩）。
 - Watson这个姓氏能让人想到很多，可以是生物书上发现双螺旋结构的“沃森和克里克”，也可以是IBM的元老Thomas J. Watson，也可以是英国女演员的Emma Watson，还可以是遍布大江南北的屈臣氏化妆品店。
