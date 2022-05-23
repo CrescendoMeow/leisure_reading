@@ -2,6 +2,8 @@
 
 ### May, 2022
 
+05/23/2022-a 最近总把commence和commerce看混。
+
 05/22/2022-a 我今天才注意到，inflation的a，发双元音/ei/的音，其动词形式是inflate。
 
 05/22/2022-b 突然好奇pineapple和pine有什么关系，一番explore之后，原来 **pineapple(菠萝)** 和 **pinecone(松塔)** 确实长得挺像的。
