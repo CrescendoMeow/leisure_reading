@@ -4,6 +4,8 @@
 
 05/22/2022-a 我今天才注意到，inflation的a，发双元音/ei/的音，其动词形式是inflate。
 
+05/22/2022-b 突然好奇pineapple和pine有什么关系，一番explore之后，原来 **pineapple(菠萝)** 和 **pinecone(松塔)** 确实长得挺像的。
+
 05/21/2022-a 我最近突然意识到，stamp直接翻译成“邮票”应该是不大准确的，因为除了 **postage stamp (邮票)** 还有 **revenue/tax stamp (印花税票)**. 或许，stamp翻译成"印章、戳记、图记"会更准确一些。
 
 05/20/2022-a 我今天才发现，自己一直分不清 **monument (纪念碑)** 和 **memorial (纪念馆)** 这两个单词。
