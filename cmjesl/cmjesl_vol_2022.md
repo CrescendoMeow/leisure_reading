@@ -4,6 +4,8 @@
 
 05/24/2022-a 我今天才知道expediate是expedite的另一种写法。
 
+05/24/2022-b 我今天才意识到 **utensil(用具)** 和 **stencil(模具)** 这两个单词可以一起记。
+
 05/23/2022-a 最近总把commence和commerce看混。
 
 05/22/2022-a 我今天才注意到，inflation的a，发双元音/ei/的音，其动词形式是inflate。
