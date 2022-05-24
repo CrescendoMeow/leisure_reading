@@ -14,7 +14,7 @@
 
 12/22/2020 我今天才知道buffet(自助餐)的t不发音。
 
-12/21/2020-a 我今天才意识到candid和candidate这两个词之间是有联系的。然而已经成为一个PhD candidate的我，做到了对自己candid，对周围人candid吗？[[Ref]](https://www.dailywritingtips.com/the-candid-in-candidate/)
+12/21/2020-a 我今天才意识到candid和candidate这两个词之间是有联系的。然而已经成为一个PhD candidate的我，做到了对自己candid，对周围人candid吗？ BTW. 我应该尝试一下用candid来替换frank. [[Ref]](https://www.dailywritingtips.com/the-candid-in-candidate/)
 
 12/21/2020-b 我为什么会搞混handicap和kidnap这两个词呢？
 
