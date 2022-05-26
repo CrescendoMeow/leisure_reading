@@ -8,9 +8,7 @@
 - 为啥感觉Anthony和Antonio的发音差别那么大呢？明明都是同一个名字。
 - 当我意识到“比尔”这个名字和“账单”这个意思对应同一个单词(Bill)之后，就莫名觉得某前首富和某前总统的名字都有点creepy。
 - 当我知道carol是“颂歌 欢唱”的意思之后，就莫名觉得Caroline这个名字很美。
-- 我猜何以琛的英文名一定叫Eason。
 - 当我把Fantasia这个单词同“芬达”这个译名联系起来时，突然对这种常见的饮料产生了某种微妙的情愫。
-- 不知道作家格非有没有英文名字，如果没有的话，我帮他想了一个，可以叫——Geoffrey。
 - 当我意识到“强生”和“约翰逊”都对应同一个单词(Johnson)之后，瞬间对某家日化用品公司去魅了。
 - 每当我想到Julian（于连）和Juliet（茱丽叶）是同名不同款的时候，那两个虚拟的时空，便在我的头脑里，串台了。
 - 当我知道laurel是“月桂 桂冠”的意思之后，就莫名觉得Laura这个名字很美。另外，laureate也是这个词源。
@@ -21,3 +19,13 @@
 - Steve(n)和Stephen是同一个名字。
 - Sophie这个名字似乎有两张面孔，一面是philosophy（爱智慧），另一面是sophistry（诡辩）。
 - Watson这个姓氏能让人想到很多，可以是生物书上发现双螺旋结构的“沃森和克里克”，也可以是IBM的元老Thomas J. Watson，也可以是英国女演员的Emma Watson，还可以是遍布大江南北的屈臣氏化妆品店。
+
+### Homophonic Pair of English and Chinese Names
+| English Name 	| Chinese Name 	| Notes 	|
+|--------------	|--------------	|-------	|
+| Birch        	| 伯禽           |       ｜
+| Eason        	| 以琛, 忆杉       |       	|
+| Geoffrey      | 格非           |       	|
+| Herald        | 海柔           |       	|
+| Legion        | 立群           | 鹤立鸡群 |
+| Sheldon       | 绍棠           |       	|
