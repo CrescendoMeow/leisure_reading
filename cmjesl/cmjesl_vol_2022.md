@@ -2,7 +2,7 @@
 
 ### May, 2022
 
-05/28/2022-a Hello from Working Copy
+05/28/2022-a Hello from Working Copy, another chance
 
 05/24/2022-a 我今天才知道expediate是expedite的另一种写法。
 
