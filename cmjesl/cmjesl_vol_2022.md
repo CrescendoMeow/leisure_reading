@@ -1,5 +1,11 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### June, 2022
+
+06/07/2022-a 我今天才知道，物理里的守恒律叫 [Conservation Law](https://en.wikipedia.org/wiki/Conservation_law)。
+
+06/02/2022-a 我今天才意识到，thorough这个单词我一直是瞎念的。
+
 ### May, 2022
 
 05/28/2022-a Hello from Working Copy, another chance
