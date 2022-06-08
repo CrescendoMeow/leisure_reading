@@ -12,6 +12,7 @@
 - 当我意识到“强生”和“约翰逊”都对应同一个单词(Johnson)之后，瞬间对某家日化用品公司去魅了。
 - 每当我想到Julian（于连）和Juliet（茱丽叶）是同名不同款的时候，那两个虚拟的时空，便在我的头脑里，串台了。
 - 当我知道laurel是“月桂 桂冠”的意思之后，就莫名觉得Laura这个名字很美。另外，laureate也是这个词源。
+- 当我知道mason本来是“石匠”，Freemasonry(共济会)起源于"石匠行业协会"之后，就觉得“梅森”这个姓特别接地气。另外，共济会的Logo是尺规，这是西方版的墨家么？
 - Michele (pronounced [miˈkɛːle])作男生名的时候，是意大利语版的Michael。如果你觉得creepy，就想想Michelangelo (米开朗基罗)。Michele (pronounced /mɪˈʃɛl/ mi-SHEL)作女生名的时候, 对应法语名Michèle.
 - 当我认识monetize这个单词之后，突然觉得Monet（莫奈）这个名字没那么罗曼蒂克了。
 - 当我知道pierce有“刺破 穿透”的意思之后，就莫名觉得Pierce这个名字非常aggressive。
