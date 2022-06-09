@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/09/2022-a 当我知道royalty有**版税**、**特许经营权**的意思之后，我觉得自己对“王权”有了更深刻的理解。
+
 06/08/2022-a 我今天才把vest和invest这两个词联系到一起。
 
 06/07/2022-a 我今天才知道，物理里的守恒律叫 [Conservation Law](https://en.wikipedia.org/wiki/Conservation_law)。
