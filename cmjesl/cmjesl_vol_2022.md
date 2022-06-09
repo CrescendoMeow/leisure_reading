@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/08/2022-a 我今天才把vest和invest这两个词联系到一起。
+
 06/07/2022-a 我今天才知道，物理里的守恒律叫 [Conservation Law](https://en.wikipedia.org/wiki/Conservation_law)。
 
 06/07/2022-b 我今天才知道，cushion除了坐垫的意思之外，还有缓冲的意思。
