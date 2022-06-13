@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/12/2022-a 学了一个新词，i.e. [Straw purchase (代购)](https://en.wikipedia.org/wiki/Straw_purchase).
+
 06/09/2022-a 当我知道royalty有**版税**、**特许经营权**的意思之后，我觉得自己对“王权”有了更深刻的理解。
 
 06/09/2022-b 我发现我并不能搞清楚[adaptable和adaptive的区别](https://english.stackexchange.com/questions/300514/how-to-distingiush-adaptable-from-adaptive)。
