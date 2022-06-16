@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/15/2022-a 我今天才知道，[Rx](https://en.wikipedia.org/wiki/Medical_prescription)是prescription的意思。
+
 06/12/2022-a 学了一个新词，i.e. [Straw purchase (代购)](https://en.wikipedia.org/wiki/Straw_purchase).
 
 06/09/2022-a 当我知道royalty有**版税**、**特许经营权**的意思之后，我觉得自己对“王权”有了更深刻的理解。
