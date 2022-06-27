@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/19/2022-a 我今天才意识到，GUI应该读作“故-衣”。
+
 06/15/2022-a 我今天才知道，[Rx](https://en.wikipedia.org/wiki/Medical_prescription)是prescription的意思。
 
 06/12/2022-a 学了一个新词，i.e. [Straw purchase (代购)](https://en.wikipedia.org/wiki/Straw_purchase).
