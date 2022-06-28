@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/28/2022-a 我今天才知道，[premises](https://en.wikipedia.org/wiki/Premises)是“单元房”的意思。
+
 06/27/2022-a 我今天才知道，“管裁员叫毕业”的这种行为，英语里叫[doublespeak](https://en.wikipedia.org/wiki/Doublespeak)
 
 06/19/2022-a 我今天才意识到，GUI应该读作“故-衣”。
