@@ -2,6 +2,8 @@
 
 ### June, 2022
 
+06/29/2022-a 我今天才知道，vanity除了“虚荣”的意思之外，还可以指“梳妆台、浴室洗手盆”，比如[bathroom double sink vanities](https://www.google.com/search?q=bathroom+double+sink+vanities)
+
 06/28/2022-a 我今天才知道，[premises](https://en.wikipedia.org/wiki/Premises)是“单元房”的意思。
 
 06/27/2022-a 我今天才知道，“管裁员叫毕业”的这种行为，英语里叫[doublespeak](https://en.wikipedia.org/wiki/Doublespeak)
