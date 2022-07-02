@@ -6,6 +6,8 @@
 
 ### June, 2022
 
+06/30/2022-a 我今天才知道，出版CS动物书系列的[O'Reilly Media](https://en.wikipedia.org/wiki/O%27Reilly_Media)和经营汽车配件的[O'Reilly Auto Parts](https://en.wikipedia.org/wiki/O%27Reilly_Auto_Parts)没有半毛钱关系，大概类似于“李记书局”和“李记车行”的区别。。。
+
 06/29/2022-a 我今天才知道，vanity除了“虚荣”的意思之外，还可以指“梳妆台”，比如[bathroom double sink vanities](https://www.google.com/search?q=bathroom+double+sink+vanities)(浴室双洗手盆)、vanity kit (化妆包)、vanity mirror (梳妆镜)、vanity fair (名利场)。
 
 06/28/2022-a 我今天才知道，[premises](https://en.wikipedia.org/wiki/Premises)是“单元房”的意思。
