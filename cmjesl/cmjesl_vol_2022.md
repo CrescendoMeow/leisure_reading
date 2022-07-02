@@ -1,5 +1,9 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### July, 2022
+
+07/01/2022-a 我今天才知道，“[卡座](https://baike.baidu.com/item/%E5%8D%A1%E5%BA%A7/7102962)”这种翻译，来源于英语里的Car Seats.
+
 ### June, 2022
 
 06/29/2022-a 我今天才知道，vanity除了“虚荣”的意思之外，还可以指“梳妆台”，比如[bathroom double sink vanities](https://www.google.com/search?q=bathroom+double+sink+vanities)(浴室双洗手盆)、vanity kit (化妆包)、vanity mirror (梳妆镜)、vanity fair (名利场)。
