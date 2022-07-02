@@ -2,6 +2,8 @@
 
 ### July, 2022
 
+07/02/2022-a 我今天才把furnish和furniture这两个单词联系在一起。
+
 07/01/2022-a 我今天才知道，“[卡座](https://baike.baidu.com/item/%E5%8D%A1%E5%BA%A7/7102962)”这种翻译，来源于英语里的Car Seats.
 
 ### June, 2022
