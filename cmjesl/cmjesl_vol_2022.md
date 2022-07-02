@@ -6,6 +6,8 @@
 
 07/02/2022-b inadvertent是“不经意间的”，inattentive是“不专心的”。
 
+07/02/2022-c 学了一个新词“a split second (一瞬间)”。
+
 07/01/2022-a 我今天才知道，“[卡座](https://baike.baidu.com/item/%E5%8D%A1%E5%BA%A7/7102962)”这种翻译，来源于英语里的Car Seats.
 
 ### June, 2022
