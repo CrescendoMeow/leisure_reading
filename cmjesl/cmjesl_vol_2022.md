@@ -4,6 +4,8 @@
 
 07/03/2022-a 我今天才知道英语里也有“Welcome to my humble abode”这类的说法。
 
+07/03/2022-b 我今天才把Hollywood同“冬青木”联系在一起。
+
 07/02/2022-a 我今天才把furnish和furniture这两个单词联系在一起。
 
 07/02/2022-b inadvertent是“不经意间的”，inattentive是“不专心的”。
