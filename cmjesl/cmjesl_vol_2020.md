@@ -152,7 +152,7 @@
 
 03/24/2020 刚来美帝时我一直不明白为啥公寓管理员叫complex coordinator
 
-03/20/2020 我今天才知道Intel有个别名叫[chipzilla](https://en.m.wiktionary.org/wiki/Chipzilla)
+03/20/2020 我今天才知道Intel有个别名叫[chipzilla](https://en.m.wiktionary.org/wiki/Chipzilla)，来源于Godzilla(哥斯拉)。另外后缀[-zilla](https://en.wiktionary.org/wiki/-zilla#English)还有若干个词。
 
 03/19/2020-a 我今天才发现Cliché这个单词一直也是读错的
 
