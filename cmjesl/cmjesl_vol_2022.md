@@ -6,6 +6,8 @@
 
 07/15/2022-b 学了一个新词，i.e. Voila (你瞧)。
 
+07/13/2022-a 我今天才知道，[shippment和delivery的区别](https://www.shiprocket.in/blog/shipping-vs-delivery/)。
+
 07/08/2022-a 学了一个新词，i.e. coasting (划水)。
 
 07/04/2022-a 今天学到的新说法，i.e. [be there or be square](https://en.wiktionary.org/wiki/be_there_or_be_square).
