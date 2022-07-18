@@ -10,6 +10,8 @@
 
 07/08/2022-a 学了一个新词，i.e. coasting (划水)。
 
+07/07/2022-a 学了两个新词，i.e. flatware and silverware.
+
 07/04/2022-a 今天学到的新说法，i.e. [be there or be square](https://en.wiktionary.org/wiki/be_there_or_be_square).
 
 07/03/2022-a 我今天才知道英语里也有“Welcome to my humble abode”这类的说法。
