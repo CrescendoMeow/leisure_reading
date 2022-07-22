@@ -2,6 +2,8 @@
 
 ### July, 2022
 
+07/22/2022-a 我今天才发现，这两个单词会读混，i.e. wearable & variable.
+
 07/17/2022-a 我今天才知道，[三驾马车 (troika)](https://zh.m.wikipedia.org/zh-hans/%E4%B8%89%E9%A9%BE%E9%A9%AC%E8%BD%A6)，并不是三辆马车，而是三匹马拉一辆车，又称“三套车”。
 
 07/15/2022-a 学了一个新词，i.e. bells and whistles (花里胡哨)。
