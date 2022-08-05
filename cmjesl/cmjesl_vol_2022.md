@@ -1,5 +1,9 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### August, 2022
+
+08/05/2022-a 学了一个新词，i.e. [purvey](https://levynewsnetwork.wordpress.com/2011/03/26/define-purvey-it-means-something-very-different-from-survey/).
+
 ### July, 2022
 
 07/22/2022-a 我今天才发现，这两个单词会读混，i.e. wearable & variable.
