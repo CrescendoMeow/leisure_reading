@@ -2,6 +2,8 @@
 
 ### August, 2022
 
+08/06/2022-a 我今天才知道，gelato (意式冰淇淋)的g 发 /j/ 的音。
+
 08/05/2022-a 学了一个新词，i.e. [purvey](https://levynewsnetwork.wordpress.com/2011/03/26/define-purvey-it-means-something-very-different-from-survey/).
 
 08/05/2022-b 学了一个新词，i.e. arbitrage (套利)。
