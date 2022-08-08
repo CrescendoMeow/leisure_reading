@@ -251,4 +251,4 @@
 
 01/10/2022 我突然意识到bump, dump, hump, lump, pump 这五个单词可以一起记。
 
-01/08/2022 学了一个新词叫hit and miss，盲猜跟trial and test意思差不多。类似的“A and B”结构的短语，还有mix and match.
+01/08/2022 学了一个新词叫hit and miss，盲猜跟trial and test意思差不多。类似的“A and B”结构的短语，还有mix and match. (还有一个不太一样的词，叫hit and run.
