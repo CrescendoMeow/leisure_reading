@@ -2,6 +2,8 @@
 
 ### August, 2022
 
+08/10/2022-a 学了一个比bestie高级的词，i.e. confidant.
+
 08/09/2022-a 学了一个新词，i.e. a leap of faith.
 
 08/07/2022-a 我今天才发现，我总是分不清 **mochi(糯米)** 和 **matcha(抹茶)**。
