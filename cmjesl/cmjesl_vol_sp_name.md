@@ -29,7 +29,7 @@
 | English Name 	| Chinese Name 	| Notes 	|
 |--------------	|--------------	|-------	|
 | Birch        	| 伯禽           |       ｜
-| Eason        	| 以琛, 忆杉       |       	|
+| Eason        	| 以琛, 忆莘       |       	|
 | Geoffrey      | 格非           |       	|
 | Herald        | 海柔           |       	|
 | Legion        | 立群           | 鹤立鸡群 |
