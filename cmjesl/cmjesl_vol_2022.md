@@ -2,6 +2,8 @@
 
 ### August, 2022
 
+08/19/2022-a 学了一个新词, i.e. [meme stock](https://en.wikipedia.org/wiki/Meme_stock).
+
 08/10/2022-a 学了一个比bestie高级的词，i.e. confidant.
 
 08/09/2022-a 学了一个新词，i.e. a leap of faith.
