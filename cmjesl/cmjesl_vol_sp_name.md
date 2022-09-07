@@ -21,8 +21,10 @@
 - 当我认识monetize这个单词之后，突然觉得Monet（莫奈）这个名字没那么罗曼蒂克了。
 - 当我知道pierce有“刺破 穿透”的意思之后，就莫名觉得Pierce这个名字非常aggressive。
 - 当我知道smith本来是“铁匠”的意思之后，再看电影 *Mr. & Mrs. Smith*，总会脑补轮着大锤的雷神托尔。
+- 当我知道rio在西语和葡语里都是“河”的意思，才get了里约热内卢的全名Rio de Janeiro是“一月的河”的含义。
 - Steve(n)和Stephen是同一个名字。
 - Sophie这个名字似乎有两张面孔，一面是philosophy（爱智慧），另一面是sophistry（诡辩）。
+- 当我把Taylor同tailor(裁缝)这个单词联系起来时，再看到Taylor series (泰勒级数)，脑海里总会一闪而过“拆衣服”的画面。
 - Watson这个姓氏能让人想到很多，可以是生物书上发现双螺旋结构的“沃森和克里克”，也可以是IBM的元老Thomas J. Watson，也可以是英国女演员的Emma Watson，还可以是遍布大江南北的屈臣氏化妆品店。
 
 ### Homophonic Pair of English and Chinese Names
