@@ -33,6 +33,6 @@
 | Birch        	| 伯禽           |       ｜
 | Eason        	| 以琛, 忆莘       |       	|
 | Geoffrey      | 格非           |       	|
-| Herald        | 海柔           |       	|
+| Herald        | 海若           |       	|
 | Legion        | 立群           | 鹤立鸡群 |
 | Sheldon       | 绍棠           |       	|
