@@ -2,6 +2,8 @@
 
 ### September, 2022
 
+09/16/2022-a 今天学到的新缩写是 MVA (Motor Vehicle Accident)和 MVC (Motor Vehicle Collision/Crash)。希望以后永远也不会用到这组缩写...
+
 09/14/2022-a 我今天才知道，原来英联邦叫[commonwealth](https://en.wikipedia.org/wiki/Commonwealth_of_Nations).
 
 09/13/2022-a 我今天学到的新缩写，i.e. iirc == if I recall correctly. 
