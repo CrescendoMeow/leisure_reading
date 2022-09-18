@@ -6,6 +6,8 @@
 
 09/18/2022-b 又发现一个自己重音乱念的单词，i.e. decimal (十进制).
 
+09/18/2022-c 今天学到的新短语，[When push comes to shove (当到了必须做决定的时候)](https://grammarist.com/idiom/when-push-comes-to-shove/).
+
 09/16/2022-a 今天学到的新缩写是 MVA (Motor Vehicle Accident)和 MVC (Motor Vehicle Collision/Crash)。希望以后永远也不会用到这组缩写...
 
 09/14/2022-a 我今天才知道，原来英联邦叫[commonwealth](https://en.wikipedia.org/wiki/Commonwealth_of_Nations).
