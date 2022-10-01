@@ -1,9 +1,12 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### October, 2022
+
+10/01/2022-a 学了一个新词，i.e. [a nail in one's coffin](https://www.merriam-webster.com/dictionary/a%20nail%20in%20the%2Fsomeone%27s%20coffin).
+
 ### September, 2022
 
-
-09/30/2022-a 我今天才把**influenza(流感)** 和 **influence(影响力)** 这两个单词联系起啦。
+09/30/2022-a 我今天才把 **influx(涌入)**， **influenza(流感)** 以及 **influence(影响力)** 这几个单词联系起来。
 
 09/30/2022-b 我突然觉得，roller-coaster, tractor-trailer这样的词好有趣。
 
