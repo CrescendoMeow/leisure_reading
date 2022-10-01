@@ -4,6 +4,8 @@
 
 10/01/2022-a 学了一个新词，i.e. [a nail in one's coffin](https://www.merriam-webster.com/dictionary/a%20nail%20in%20the%2Fsomeone%27s%20coffin).
 
+10/01/2022-b 我今天才注意到，pare(削减)和pear(梨)是同音的。
+
 ### September, 2022
 
 09/30/2022-a 我今天才把 **influx(涌入)**， **influenza(流感)** 以及 **influence(影响力)** 这几个单词联系起来。
