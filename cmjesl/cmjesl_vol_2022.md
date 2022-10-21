@@ -2,6 +2,8 @@
 
 ### October, 2022
 
+10/20/2022-a 我今天才意识到，“便当”是bento的音译。
+
 10/09/2022-a 我突然发现，我每次买肉/点菜时，总会把loin自动parse成lion🤦‍♀️
 
 10/02/2022-a 很好奇英语里应该怎么翻译“逛街”这个词呢？感觉不管是shopping还是window-shopping都体现不出来中文里“逛街”那种leisure-and-chill的感觉。
