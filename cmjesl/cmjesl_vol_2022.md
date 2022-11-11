@@ -1,5 +1,9 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### November, 2022
+
+11/10/2022-a 我今天才知道，tread这个词，除了当动词有“踩踏”之意外，作名词还指“车胎和地面接触的那个部分”。[[ref]](https://www.sullivantire.com/learn/tire-classroom/anatomy-of-a-tire)
+
 ### October, 2022
 
 10/21/2022-a 我今天才意识到celery(芹菜)和salary(工资)的发音好像。
