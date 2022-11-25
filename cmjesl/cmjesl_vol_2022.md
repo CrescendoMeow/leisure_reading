@@ -4,6 +4,8 @@
 
 11/24/2022-a [What's the difference between an ave, rd, st, ln, dr, way, pl, blvd, etc?](https://www.kickassfacts.com/whats-the-difference-between-an-ave-rd-st-ln-dr-way-pl-blvd-etc/)
 
+11/24/2022-b 话说，“啫喱”到底是gel还是jelly的音译呀？
+
 11/10/2022-a 我今天才知道，tread这个词，除了当动词有“踩踏”之意外，作名词还指“车胎和地面接触的那个部分”。[[ref]](https://www.sullivantire.com/learn/tire-classroom/anatomy-of-a-tire)
 
 ### October, 2022
