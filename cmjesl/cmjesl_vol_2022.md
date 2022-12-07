@@ -4,7 +4,7 @@
 
 11/24/2022-a [What's the difference between an ave, rd, st, ln, dr, way, pl, blvd, etc?](https://www.kickassfacts.com/whats-the-difference-between-an-ave-rd-st-ln-dr-way-pl-blvd-etc/)
 
-11/24/2022-b 话说，“啫喱”到底是gel还是jelly的音译呀？
+11/24/2022-b 话说，“啫喱”到底是gel还是jelly的音译呀？突然意识到，gel和gelatin(明胶)这两个单词可以一起记。
 
 11/24/2022-c 我今天才知道，H-Mart的中文名字叫“[韩亚龙](https://zh.wikipedia.org/wiki/%E9%9F%93%E4%BA%9E%E9%BE%8D)”。
 
