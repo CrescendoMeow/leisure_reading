@@ -1,8 +1,7 @@
 ## 英文名趣谈 ｜ Special Vol on English Names, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
-```
-免责声明：本文仅限于对名字本身的讨论，不涉及现实生活中任何一个具体的人，请勿对号入座。
-```
+> 免责声明：本文仅限于对名字本身的讨论，不涉及现实生活中任何一个具体的人，请勿对号入座。
+
 
 - 当我知道Andy is short for Andrew之后，每次看到安卓小人时总会想到小时候英语课本上那个叫Andy的金发男孩。
 - 为啥感觉Anthony和Antonio的发音差别那么大呢？明明都是同一个名字。
@@ -14,9 +13,9 @@
 - 当我知道florid有“红润、华丽”的意思之后，突然觉得Florida这个地名好炫酷。
 - 当我知道Ford有“涉水”的意思时，突然觉得福特汽车很酷。
 
-> Climb Every Mountain, Ford Every Stream, Follow Every Rainbow, Till You Find Your Dream.
+> *Climb Every Mountain, Ford Every Stream, Follow Every Rainbow, Till You Find Your Dream.*
 > 
-> -- Lyrics Quoted from *The Sound of Music*
+> -- *Lyrics Quoted from* ***The Sound of Music***
 
 - 我今天才意识到Gone With The Wind里主人公的名字都对应着颜色，而且CP之间还是相同的色系，i.e., Scarlett (猩红), Rhett(红), Melanie (黑), Ashley (灰).
 - 当我意识到“强生”和“约翰逊”都对应同一个单词(Johnson)之后，瞬间对某家日化用品公司去魅了。
