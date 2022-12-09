@@ -12,6 +12,12 @@
 - 当我知道“夏娃”和“平安夜”都是Eve这个词之后，才意识到圣诞节的宗教意味。当我意识到 **新世纪福音战士(eva)** 同eve这个名字同源时，才意识到这个日本动画片拍得好讲究。
 - 当我把Fantasia这个单词同“芬达”这个译名联系起来时，突然对这种常见的饮料产生了某种微妙的情愫。
 - 当我知道florid有“红润、华丽”的意思之后，突然觉得Florida这个地名好炫酷。
+- 当我知道Ford有“涉水”的意思时，突然觉得福特汽车很酷。
+
+> Climb Every Mountain, Ford Every Stream, Follow Every Rainbow, Till You Find Your Dream.
+> 
+> -- Lyrics Quoted from *The Sound of Music*
+
 - 我今天才意识到Gone With The Wind里主人公的名字都对应着颜色，而且CP之间还是相同的色系，i.e., Scarlett (猩红), Rhett(红), Melanie (黑), Ashley (灰).
 - 当我意识到“强生”和“约翰逊”都对应同一个单词(Johnson)之后，瞬间对某家日化用品公司去魅了。
 - 每当我想到Julian（于连）和Juliet（茱丽叶）是同名不同款的时候，那两个虚拟的时空，便在我的头脑里，串台了。
