@@ -1,5 +1,9 @@
 ## Vol 2022, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### December, 2022
+
+12/28/2022-a 学了一个新词，i.e. two-pronged (双管齐下的).
+
 ### November, 2022
 
 11/24/2022-a [What's the difference between an ave, rd, st, ln, dr, way, pl, blvd, etc?](https://www.kickassfacts.com/whats-the-difference-between-an-ave-rd-st-ln-dr-way-pl-blvd-etc/)
