@@ -12,6 +12,8 @@ The posts here contain the random pieces in my ESL life. Some pieces are related
 - [Vol 2016](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_2016.md)
 - [Vol 2015](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_2015.md)
 - [Special Vol on English Names | 英文名趣谈](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_sp_name.md)
+- [Special Vol on Tech Slangs | 科技黑话](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_sp_tech_slang.md)
+- [Special Vol on Pronunciation Rules | 发音规律](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_sp_pronunciation_rules.md)
 
 The volume naming is inspired by the naming philosophy of academic journals, i.e.
 
