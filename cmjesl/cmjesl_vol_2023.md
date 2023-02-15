@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### Feburary, 2023
+
+02/13/2023 我今天才知道，甜椒君在英语里叫[bell pepper](https://en.wikipedia.org/wiki/Bell_pepper).
+
 ### January, 2023
 
 01/29/2023-a 我今天才知道英语里把“音阶的升号(#)”叫做sharp，破解了我多年以来的困惑，i.e. 为啥程序员们都把“C#语言”念做“C-sharp”🤦‍♀️
