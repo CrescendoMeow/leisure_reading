@@ -1,6 +1,6 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
-### Feburary, 2023
+### February, 2023
 
 02/13/2023 我今天才知道，甜椒君在英语里叫[bell pepper](https://en.wikipedia.org/wiki/Bell_pepper).
 
