@@ -5,6 +5,7 @@
 
 - 当我知道Andy is short for Andrew之后，每次看到安卓小人时总会想到小时候英语课本上那个叫Andy的金发男孩。
 - 为啥感觉Anthony和Antonio的发音差别那么大呢？明明都是同一个名字。
+- Becky is short for Rebecca.
 - 当我意识到“比尔”这个名字和“账单”这个意思对应同一个单词(Bill)之后，就莫名觉得某前首富和某前总统的名字都有点creepy。
 - 当我知道carol是“颂歌 欢唱”的意思之后，就莫名觉得Caroline这个名字很美。
 - Chelsea和Kelsey这两个名字哪个更好呢？
