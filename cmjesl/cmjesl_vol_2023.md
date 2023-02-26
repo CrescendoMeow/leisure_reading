@@ -2,6 +2,8 @@
 
 ### February, 2023
 
+02/26/2023 我今天才把lizard和chameleon这两个单词联系到一起。
+
 02/18/2023 学了一个新词，[pick-and-shovel play](https://www.investopedia.com/terms/p/pick-and-shovel-play.asp)
 
 02/13/2023 我今天才知道，甜椒君在英语里叫[bell pepper](https://en.wikipedia.org/wiki/Bell_pepper).
