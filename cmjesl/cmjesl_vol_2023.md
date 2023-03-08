@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### March, 2023
+
+03/07/2023-a 我今天才发现Caesar Salad这个词，我一直都是瞎念的。
+
 ### February, 2023
 
 02/26/2023-a 我今天才把lizard和chameleon这两个单词联系到一起。
