@@ -2,6 +2,8 @@
 
 ### March, 2023
 
+03/08/2023-a 我今天才意识到，[tunnel vision](https://en.wikipedia.org/wiki/Tunnel_vision)可以翻译成‘管窥’。
+
 03/07/2023-a 我今天才发现Caesar Salad这个词，我一直都是瞎念的。
 
 ### February, 2023
