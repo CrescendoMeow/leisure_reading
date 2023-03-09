@@ -2,6 +2,8 @@
 
 ### March, 2023
 
+03/09/2023-a 学了一个新词，i.e. boomerang(职场回头客)
+
 03/08/2023-a 我今天才意识到，[tunnel vision](https://en.wikipedia.org/wiki/Tunnel_vision)可以翻译成‘管窥’。
 
 03/08/2023-b 学了两个新词，i.e. [mobilization](https://en.wikipedia.org/wiki/Mobilization)(战争总动员)，homefront(后方)。
