@@ -2,6 +2,8 @@
 
 ### March, 2023
 
+03/30/2023-a 学了一个新词，i.e. [off the grid](https://en.wikipedia.org/wiki/Off-the-grid).
+
 03/12/2023-a 新学了一句话，i.e. Hate the sin, but love the sinner (对事不对人)。
 
 03/09/2023-a 学了一个新词，i.e. boomerang(职场回头客)
