@@ -2,9 +2,9 @@
 
 ### April, 2023
 
-04/02/2023-a 学了一个新词，[thyself](https://english.stackexchange.com/questions/521991/thyself-yourself-what-is-the-equivalent-of-others).
+04/02/2023-a 学了一个新词，i.e. [thyself](https://english.stackexchange.com/questions/521991/thyself-yourself-what-is-the-equivalent-of-others).
 
-04/01/2023-a 学了一个新词，[collegial](https://en.wikipedia.org/wiki/Collegiality). My friend told me every department used this word to describe the good working enviorment in her journey of academic job hunt.
+04/01/2023-a 学了一个新词，i.e. [collegial](https://en.wikipedia.org/wiki/Collegiality). My friend told me every department used this word to describe the good working enviorment in her journey of academic job hunt.
 
 ### March, 2023
 
