@@ -15,7 +15,7 @@ The posts here contain the random pieces in my ESL life. Some pieces are related
 - [Special Vol on Tech Slangs | 科技黑话](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_sp_tech_slang.md)
 - [Special Vol on Pronunciation Rules | 发音规律](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_sp_pronunciation_rules.md)
 
-The volume naming is inspired by the naming philosophy of academic journals, i.e.
+The volume numbering rule is inspired by academic journals, i.e.
 
 - `cmjesl_vol_20xx.md` stores the pieces in the corresponding year.
 - `cmjesl_vol_sp_yyyy.md` curates the special topics.
