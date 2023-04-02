@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### April, 2023
+
+04/01/2023-a 学了一个新词，[collegial](https://en.wikipedia.org/wiki/Collegiality). My friend told me every department will use this word to describe the good working enviorment in her journey of academic job hunt.
+
 ### March, 2023
 
 03/30/2023-a 学了一个新词，i.e. [off the grid](https://en.wikipedia.org/wiki/Off-the-grid).
