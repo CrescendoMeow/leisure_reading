@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### May, 2023
+
+05/06/2023-a 学了一个新词，i.e. edutainment(寓教于乐)。[ref](https://youtu.be/pd36Jay0B_8)
+
 ### April, 2023
 
 04/02/2023-a 学了一个新词，i.e. [thyself](https://english.stackexchange.com/questions/521991/thyself-yourself-what-is-the-equivalent-of-others).
