@@ -3,3 +3,7 @@
 ### H不发音
 
 - Fa*h*renheit
+
+## tr
+- *Tr*oy (特洛伊)， Trojan
+- *Tr*ump (特朗普)
