@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### June, 2023
+
+06/02/2023-a 学了两个新词，i.e. out of commission (没空管你)，decommission (退役)。
+
 ### May, 2023
 
 05/06/2023-a 学了一个新词，i.e. edutainment(寓教于乐)。[ref](https://youtu.be/pd36Jay0B_8)
