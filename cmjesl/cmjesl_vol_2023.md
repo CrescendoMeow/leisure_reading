@@ -2,6 +2,10 @@
 
 ### June, 2023
 
+06/07/2023-a 学了一个新词，i.e. [ten cents on the dollar](https://www.quora.com/What-do-people-mean-by-the-phrase-10-cents-on-the-dollar).
+
+06/07/2023-b 学了一个新词，i.e. [collect myself](https://www.forbes.com/sites/jessicahagy/2016/07/11/collect-yourself-in-4-minutes/).
+
 06/02/2023-a 学了两个新词，i.e. out of commission (没空管你)，decommission (退役)。
 
 ### May, 2023
