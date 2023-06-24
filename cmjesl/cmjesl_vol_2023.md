@@ -2,6 +2,8 @@
 
 ### June, 2023
 
+06/24/2023-a 了解了一下这两个职业的区别，i.e. [occupational therapist (OT) vs physical therapist (PT)](https://www.mcphs.edu/en/about/news/occupational-therapy-vs-physical-therapy).
+
 06/07/2023-a 学了一个新词，i.e. [ten cents on the dollar](https://www.quora.com/What-do-people-mean-by-the-phrase-10-cents-on-the-dollar).
 
 06/07/2023-b 学了一个新词，i.e. [collect myself](https://www.forbes.com/sites/jessicahagy/2016/07/11/collect-yourself-in-4-minutes/).
