@@ -2,6 +2,8 @@
 
 ### June, 2023
 
+06/25/2023-a 学了一个新词，i.e. [Eureka](https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%8C%E5%8D%A1_(%E8%AF%8D%E8%AF%AD)).
+
 06/24/2023-a 了解了一下这两个职业的区别，i.e. [occupational therapist (OT) vs physical therapist (PT)](https://www.mcphs.edu/en/about/news/occupational-therapy-vs-physical-therapy).
 
 06/07/2023-a 学了一个新词，i.e. [ten cents on the dollar](https://www.quora.com/What-do-people-mean-by-the-phrase-10-cents-on-the-dollar).
