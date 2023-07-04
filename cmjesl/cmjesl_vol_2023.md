@@ -1,5 +1,11 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### July, 2023
+
+07/01/2023-a 我今天才知道，[range, stove, oven](https://www.kitchenaid.com/pinch-of-help/major-appliances/range-vs-stove-vs-oven.html)这几个单词的区别。
+
+07/01/2023-b 了解了一下，[race和ethnicity](https://www.verywellmind.com/difference-between-race-and-ethnicity-5074205)，i.e. race强调physical characteristics上的区别，ethnicity则强调culture上的区别
+
 ### June, 2023
 
 06/25/2023-a 学了一个新词，i.e. [Eureka](https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%8C%E5%8D%A1_(%E8%AF%8D%E8%AF%AD)).
