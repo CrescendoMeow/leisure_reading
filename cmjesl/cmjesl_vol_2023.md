@@ -6,6 +6,8 @@
 
 07/01/2023-b 了解了一下，[race和ethnicity](https://www.verywellmind.com/difference-between-race-and-ethnicity-5074205)，i.e. race强调physical characteristics上的区别，ethnicity则强调culture上的区别
 
+07/12/2023-a 我今天才知道这组反义词，i.e. appreciation (增值) vs depreciation (折旧).
+
 ### June, 2023
 
 06/25/2023-a 学了一个新词，i.e. [Eureka](https://zh.wikipedia.org/wiki/%E5%B0%A4%E9%87%8C%E5%8D%A1_(%E8%AF%8D%E8%AF%AD)).
