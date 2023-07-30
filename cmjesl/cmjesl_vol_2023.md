@@ -2,11 +2,13 @@
 
 ### July, 2023
 
+07/30/2023-a 总是分不清hostile (adj. 敌对的) vs holistic (adj. 全面的)这两个单词。
+
+07/12/2023-a 我今天才知道这组反义词，i.e. appreciation (增值) vs depreciation (折旧).
+
 07/01/2023-a 我今天才知道，[range, stove, oven](https://www.kitchenaid.com/pinch-of-help/major-appliances/range-vs-stove-vs-oven.html)这几个单词的区别。
 
 07/01/2023-b 了解了一下，[race和ethnicity](https://www.verywellmind.com/difference-between-race-and-ethnicity-5074205)，i.e. race强调physical characteristics上的区别，ethnicity则强调culture上的区别
-
-07/12/2023-a 我今天才知道这组反义词，i.e. appreciation (增值) vs depreciation (折旧).
 
 ### June, 2023
 
@@ -22,7 +24,7 @@
 
 ### May, 2023
 
-05/06/2023-a 学了一个新词，i.e. edutainment(寓教于乐)。[ref](https://youtu.be/pd36Jay0B_8)
+05/06/2023-a 学了一个新词，i.e. edutainment(寓教于乐)。[[ref](https://youtu.be/pd36Jay0B_8)]
 
 ### April, 2023
 
