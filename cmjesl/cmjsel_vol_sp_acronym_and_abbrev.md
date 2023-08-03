@@ -9,6 +9,7 @@
 - HQ: HeadQuarter
 - KISS: Keep It Short and Simple
 - KPI: Key Performance Indicator
+- MNC: [Multi-National Corporation](https://www.investopedia.com/terms/m/multinationalcorporation.asp)
 - N/A: Not Applicable
 - SMART: Specific, Measurable, Attainable/Achievable, Realistic, Time-Bound
 - SOP: Standard Operation Procedure (标准操作流程)
