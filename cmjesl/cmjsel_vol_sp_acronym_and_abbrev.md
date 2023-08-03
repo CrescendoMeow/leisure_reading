@@ -6,6 +6,7 @@
 - COD: Cash on Delivery (货到付款)
 - EOM: End of Message
 - FWIW: For What it's Worth (再说一句)
+- HVAC: Heating, Ventilation, and Air Conditioning
 - HQ: HeadQuarter
 - KISS: Keep It Short and Simple
 - KPI: Key Performance Indicator
