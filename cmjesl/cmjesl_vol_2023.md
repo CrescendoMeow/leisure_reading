@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### August, 2023
+
+08/03/2023-a 学了一个新词，i.e. [groundhog day](https://dictionary.cambridge.org/us/dictionary/english/groundhog-day)
+
 ### July, 2023
 
 07/30/2023-a 总是分不清hostile (adj. 敌对的) vs holistic (adj. 全面的)这两个单词。
