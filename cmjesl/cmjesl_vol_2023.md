@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### September, 2023
+
+09/16/2023-a 学了一个新词，i.e. [up to no good](https://www.quora.com/What-does-the-phrase-I-solemnly-swear-that-I-am-up-to-no-good-mean).
+
 ### August, 2023
 
 08/03/2023-a 学了一个新词，i.e. [groundhog day](https://dictionary.cambridge.org/us/dictionary/english/groundhog-day)
