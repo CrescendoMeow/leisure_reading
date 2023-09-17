@@ -153,7 +153,9 @@ BTW. 在指纹、人脸被大量滥用的今天，以后需要特殊生物信息
 
 ### April, 2021
 
-04/29/2021 我今天才知道okey dokey是I will be there in a minute的意思。
+04/29/2021-a 我今天才知道okey dokey是I will be there in a minute的意思。
+
+04/29/2021-b 我今天才知道slick和neat是近义词。[[ref]](https://www.amazon.com/dp/B07MNB83G2/ref=cm_sw_r_cp_api_glt_fabc_JPV7NGEVZ4XB3GF9MVN2)
 
 04/28/2021 我今天才知道IDM的全称是integrated device manufacturer，以及张忠谋九十高龄还能这般思路清晰，全程站立做[一个小时的talk](https://youtu.be/KWPDEhTJuFg)，简直人瑞。膜！
 
