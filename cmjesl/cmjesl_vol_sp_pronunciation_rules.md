@@ -4,6 +4,9 @@
 
 - Fa*h*renheit
 
+### J发H的音
+- *J*alapeño
+
 ## tr
-- *Tr*oy (特洛伊)， Trojan
+- *Tr*oy (特洛伊)， *Tr*ojan
 - *Tr*ump (特朗普)
