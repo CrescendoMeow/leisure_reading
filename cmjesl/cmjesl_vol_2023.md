@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### October, 2023
+
+10/01/2023-a 学习了一下[船员职位名称](https://zhuanlan.zhihu.com/p/542253538)，突然对公司的组织架构有了一些新的体会。比如，Chief Officer是大副，Chief Engineer是轮机长。
+
 ### September, 2023
 
 09/30/2023-a 学了一个新词，i.e. [get it together](https://www.merriam-webster.com/dictionary/get%20it%20together).
