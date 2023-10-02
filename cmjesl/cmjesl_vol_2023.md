@@ -8,6 +8,8 @@
 
 09/30/2023-a 学了一个新词，i.e. [get it together](https://www.merriam-webster.com/dictionary/get%20it%20together).
 
+09/30/2023-b 学了一个新词，i.e. [eat crap](https://idioms.thefreedictionary.com/eat+crap).
+
 09/16/2023-a 学了一个新词，i.e. [up to no good](https://www.quora.com/What-does-the-phrase-I-solemnly-swear-that-I-am-up-to-no-good-mean).
 
 09/16/2023-a 研究了一下“拿捏”这个词在英语里怎么表达。[[ref]](https://posts.careerengine.us/p/625f84fe695d160a04cb2baf)
