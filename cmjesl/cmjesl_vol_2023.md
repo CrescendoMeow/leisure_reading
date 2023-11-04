@@ -1,5 +1,13 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### November, 2023
+
+11/03/2023-a 学了一个新词，i.e. [put a wrench in my plan](https://www.merriam-webster.com/dictionary/throw%20a%20wrench%20into%20the%20works).
+
+11/03/2023-b 学了两个新词，i.e. stack ranking 和 rank and yank. [[ref]](https://factorialhr.com/blog/stack-ranking/)
+
+11/03/2023-c 学了一个新词，i.e. [table stakes](https://brandmarketingblog.com/articles/branding-definitions/table-stakes-business/).
+
 ### October, 2023
 
 10/01/2023-a 学习了一下[船员职位名称](https://zhuanlan.zhihu.com/p/542253538)，突然对公司的组织架构有了一些新的体会。比如，Chief Officer是大副，Chief Engineer是轮机长。
