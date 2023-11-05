@@ -1,10 +1,10 @@
 ## 技术梗 ｜ Special Vol on Tech Slang, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
 11/04/2023 Some software related acronym:
-           - ERP (Enterprise Resource Planning)
-           - SAP (System Application and Production in data processing)
-           - MIS (Management Information System)
-           - CRM (Customer Relationship Management)
+* ERP (Enterprise Resource Planning)
+* SAP (System Application and Production in data processing)
+* MIS (Management Information System)
+* CRM (Customer Relationship Management)
 
 08/22/2022 学了一个新词，i.e. [slice and dice](https://skp2707.medium.com/slice-and-dice-during-data-analysis-b27a89d6d02b)
 
