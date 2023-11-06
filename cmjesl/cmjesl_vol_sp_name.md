@@ -9,6 +9,7 @@
 - 当我意识到“比尔”这个名字和“账单”这个意思对应同一个单词(Bill)之后，就莫名觉得某前首富和某前总统的名字都有点creepy。
 - 当我知道carol是“颂歌 欢唱”的意思之后，就莫名觉得Caroline这个名字很美。
 - Chelsea和Kelsey这两个名字哪个更好呢？
+- 原来Connie这个名字这么有意思。[[ref]](https://www.nytimes.com/interactive/2023/05/11/opinion/connie-chung-named-after-cn.html)
 - 当我知道“夏娃”和“平安夜”都是Eve这个词之后，才意识到圣诞节的宗教意味。当我意识到 **新世纪福音战士(eva)** 同eve这个名字同源时，才意识到这个日本动画片拍得好讲究。
 - 当我把Fantasia这个单词同“芬达”这个译名联系起来时，突然对这种常见的饮料产生了某种微妙的情愫。
 - 当我知道florid有“红润、华丽”的意思之后，突然觉得Florida这个地名好炫酷。
