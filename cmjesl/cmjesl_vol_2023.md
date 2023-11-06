@@ -2,6 +2,8 @@
 
 ### November, 2023
 
+11/05/2023-a 学了一个新词，i.e. jack of all trades (万金油)。
+
 11/03/2023-a 学了一个新词，i.e. [put a wrench in my plan](https://www.merriam-webster.com/dictionary/throw%20a%20wrench%20into%20the%20works).
 
 11/03/2023-b 学了两个新词，i.e. stack ranking 和 rank and yank. [[ref]](https://factorialhr.com/blog/stack-ranking/)
