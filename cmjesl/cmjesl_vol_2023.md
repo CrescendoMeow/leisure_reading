@@ -6,7 +6,7 @@
 
 11/05/2023-b 学了一个新词，i.e. deer in the headlights (懵逼)。
 
-11/06/2023-c 学了一个新词，i.e. tomboy (中性风)。
+11/05/2023-c 学了一个新词，i.e. tomboy (中性风)。
 
 11/03/2023-a 学了一个新词，i.e. [put a wrench in my plan](https://www.merriam-webster.com/dictionary/throw%20a%20wrench%20into%20the%20works).
 
