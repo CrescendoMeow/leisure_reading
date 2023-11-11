@@ -2,7 +2,7 @@
 
 ### November, 2023
 
-11/11/2023-a  [动物习语趣谈](https://language.chinadaily.com.cn/a/202008/21/WS5f3f8e03a310834817261f28.html)
+11/11/2023-a [动物习语趣谈](https://language.chinadaily.com.cn/a/202008/21/WS5f3f8e03a310834817261f28.html)
 
 11/05/2023-a 学了一个新词，i.e. jack of all trades (万金油)。
 
