@@ -1,6 +1,7 @@
 ## 缩写 ｜ Special Vol on Acronym and Abbreviation, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
 ### Acronyms
+- AFK: Away From Keyboard
 - APR: Annual Percentage Rate
 - COB: Close of Bussiness
 - COD: Cash on Delivery (货到付款)
@@ -10,6 +11,7 @@
 - HQ: HeadQuarter
 - KISS: Keep It Short and Simple
 - KPI: Key Performance Indicator
+- MIA: Missing In Action
 - MNC: [Multi-National Corporation](https://www.investopedia.com/terms/m/multinationalcorporation.asp)
 - N/A: Not Applicable
 - SMART: Specific, Measurable, Attainable/Achievable, Realistic, Time-Bound
