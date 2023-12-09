@@ -29,6 +29,7 @@ To list the museum shops I've visited before or I hope to visit some day.
 
 ### Los Angeles
 - [Getty Museum](https://shop.getty.edu/)
+- [Hungington Museum](https://thehuntingtonstore.org/)
 
 ### San Fransisco
 - [MOMA](https://museumstore.sfmoma.org/)
