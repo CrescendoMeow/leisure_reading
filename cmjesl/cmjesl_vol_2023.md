@@ -1,5 +1,9 @@
 ## Vol 2023, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### December, 2023
+
+12/08/2023-a 学了一句新话，i.e. winners don't whine.
+
 ### November, 2023
 
 11/11/2023-a [动物习语趣谈](https://language.chinadaily.com.cn/a/202008/21/WS5f3f8e03a310834817261f28.html)
