@@ -2,6 +2,8 @@
 
 ### December, 2023
 
+12/25/2023-a 学了一个新词，i.e. springboard (跳板)。
+
 12/08/2023-a 学了一句新话，i.e. winners don't whine.
 
 ### November, 2023
