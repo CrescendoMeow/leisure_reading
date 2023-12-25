@@ -4,6 +4,8 @@
 
 12/25/2023-a 学了一个新词，i.e. springboard (跳板)。
 
+12/24/2023-a 了解了一下，[premise 和 property 的区别](https://www.differencebetween.com/difference-between-property-and-premises/)。
+
 12/08/2023-a 学了一句新话，i.e. winners don't whine.
 
 ### November, 2023
