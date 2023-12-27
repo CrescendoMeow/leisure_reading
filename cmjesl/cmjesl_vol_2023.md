@@ -2,6 +2,8 @@
 
 ### December, 2023
 
+12/26/2023-a 我今天才知道，英语里的“建材”是inventory.
+
 12/25/2023-a 学了一个新词，i.e. springboard (跳板)。
 
 12/25/2023-b I just find -- the stress of the word ending with `-polis` should be at the last sylabus before the suffix, i.e. `me'tropolis`, `India'napolis`.
@@ -9,6 +11,8 @@
 12/25/2023-c I just realised -- `donut` is a variant of `doughnut`. [[ref]](https://www.merriam-webster.com/wordplay/is-it-donut-or-doughnut)
 
 12/24/2023-a 了解了一下，[premise 和 property 的区别](https://www.differencebetween.com/difference-between-property-and-premises/)。
+
+12/24/2023-b 话说，verizon这个是不是把vertical和horizon这两个词拼在一起呢？
 
 12/08/2023-a 学了一句新话，i.e. winners don't whine.
 
