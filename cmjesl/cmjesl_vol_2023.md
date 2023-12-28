@@ -4,6 +4,8 @@
 
 12/28/2023-a 我今天才知道，flatiron这个词，应该这么断，flat-iron，是熨斗的意思。[[Flatiron Building]](https://en.wikipedia.org/wiki/Flatiron_Building)
 
+12/28/2023-b 我今天才发现，acre这个单词，我一直都是瞎念的。
+
 12/26/2023-a 我今天才知道，英语里的“建材”是inventory.
 
 12/25/2023-a 学了一个新词，i.e. springboard (跳板)。
