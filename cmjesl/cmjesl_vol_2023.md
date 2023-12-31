@@ -2,6 +2,8 @@
 
 ### December, 2023
 
+12/29/2023-a 学了一个新的说法来形容夏天，i.e. from Memorial Day to Labor Day.
+
 12/28/2023-a 我今天才知道，flatiron这个词，应该这么断，flat-iron，是熨斗的意思。[[Flatiron Building]](https://en.wikipedia.org/wiki/Flatiron_Building)
 
 12/28/2023-b 我今天才发现，acre这个单词，我一直都是瞎念的。
