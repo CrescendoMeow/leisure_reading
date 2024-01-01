@@ -5,7 +5,9 @@
 - Fa*h*renheit
 
 ### J发H的音 (Most are Spanish words)
-- *J*alapeño, *J*avier, *J*ose
+- *J*alapeño
+- *J*avier (the Spanish spelling of Xavier)
+- *J*ose
 
 ## tr
 - *Tr*oy (特洛伊)， *Tr*ojan
