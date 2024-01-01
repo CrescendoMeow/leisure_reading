@@ -4,8 +4,8 @@
 
 - Fa*h*renheit
 
-### J发H的音
-- *J*alapeño
+### J发H的音 (Most are Spanish words)
+- *J*alapeño, *J*avier, *J*ose
 
 ## tr
 - *Tr*oy (特洛伊)， *Tr*ojan
