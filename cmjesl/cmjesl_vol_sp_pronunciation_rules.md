@@ -13,6 +13,10 @@
 - *J*avier (the Spanish spelling of Xavier)
 - *J*ose
 
-## tr
+### su at the beginning of the word
+- *Su*ede
+- *Su*ite
+
+### tr
 - *Tr*oy (特洛伊)， *Tr*ojan
 - *Tr*ump (特朗普)
