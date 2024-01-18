@@ -2,7 +2,7 @@
 
 ### January, 2024
 
-01/18/2024-a 学了一个新词，i.e. [rundown (i.e. a concise summary or outline)](https://www.collinsdictionary.com/dictionary/english/rundown).
+01/18/2024-a 学了一个新词，i.e. [rundown](https://www.collinsdictionary.com/dictionary/english/rundown) (i.e. a concise summary or outline).
 
 01/17/2024-a 我最近才意识到vine和wine应该是同一个单词。
 
