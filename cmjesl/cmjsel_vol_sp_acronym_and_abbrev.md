@@ -19,10 +19,14 @@
 - TBD: To Be Determined
 - YTD: Year To Date
 
-### Abbreviations
+### Abbreviations (Non-tech)
 - Account: Acct.
 - Attention: Attn.
 - Junior/Senior: Sam Jr (儿子)/Sam Sr（爸爸）
 - Manager: Mngr.
 - Package: Pkg.
+- People: ppl
 - Quantity: Qty.
+
+### Abbreviations (Tech)
+- stmt: statement
