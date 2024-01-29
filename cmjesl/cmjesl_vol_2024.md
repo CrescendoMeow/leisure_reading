@@ -2,6 +2,8 @@
 
 ### January, 2024
 
+01/28/2024-a 折腾了一天的车险，学了两个新词，i.e. [underwrite](https://www.investopedia.com/terms/u/underwriting.asp) (定损)，premium (保费)。
+
 01/18/2024-a 学了一个新词，i.e. [rundown](https://www.collinsdictionary.com/dictionary/english/rundown) (i.e. a concise summary or outline).
 
 01/17/2024-a 我最近才意识到vine和wine应该是同一个单词。
