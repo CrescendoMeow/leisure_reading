@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### Feburary, 2024
+
+02/02/2024-a 学了一句新话，i.e. ["Uncertainty is an uncomfortable position. But certainty is an absurd one." (from Voltaire)](https://www.goodreads.com/quotes/602588-uncertainty-is-an-uncomfortable-position-but-certainty-is-an-absurd)
+
 ### January, 2024
 
 01/29/2024-a 学了一个新词，i.e. [break a leg](https://en.wikipedia.org/wiki/Break_a_leg) (similar to "good luck" and "finger crossed").
