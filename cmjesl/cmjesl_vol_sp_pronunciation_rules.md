@@ -8,6 +8,8 @@
 ### H不发音
 
 - Fa*h*renheit
+- 'r*h*etoric, r*h*e'torical
+- ve*h*icle
 
 ### J发H的音 (Most are Spanish words)
 - *J*alapeño
