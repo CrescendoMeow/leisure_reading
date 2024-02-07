@@ -2,6 +2,8 @@
 
 ### Feburary, 2024
 
+02/07/2024-a 学了一句新话，i.e. Onwards and Upwards in the New Year! (新的一年继续前行！)
+
 02/02/2024-a 学了一句新话，i.e. ["Uncertainty is an uncomfortable position. But certainty is an absurd one." (from Voltaire)](https://www.goodreads.com/quotes/602588-uncertainty-is-an-uncomfortable-position-but-certainty-is-an-absurd)
 
 02/02/2024-b 学的另一句新话，i.e. ["In the short run, the market is a voting machine but in the long run, it is a weighing machine." (from Benjamin Graham)](https://www.goodreads.com/quotes/831517-in-the-short-run-the-market-is-a-voting-machine)
