@@ -26,7 +26,7 @@
 
 11/11/2023-a [动物习语趣谈](https://language.chinadaily.com.cn/a/202008/21/WS5f3f8e03a310834817261f28.html)
 
-11/05/2023-a 学了一个新词，i.e. jack of all trades (万金油)。
+11/05/2023-a 学了两个新词，i.e. Jack/Jill of all trades (万金油)；[Jack & Jill](https://en.wikipedia.org/wiki/Jack_and_Jill)。
 
 11/05/2023-b 学了一个新词，i.e. deer in the headlights (懵逼)。
 
