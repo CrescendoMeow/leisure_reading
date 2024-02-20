@@ -2,6 +2,8 @@
 
 ### Feburary, 2024
 
+02/20/2024-a 学了一个新词，i.e. footgun [[ref](https://x.com/forrestbrazeal/status/1451189473383890946?s=20)]
+
 02/07/2024-a 学了一句新话，i.e. Onwards and Upwards in the New Year! (新的一年继续前行！)
 
 02/02/2024-a 学了一句新话，i.e. ["Uncertainty is an uncomfortable position. But certainty is an absurd one." (from Voltaire)](https://www.goodreads.com/quotes/602588-uncertainty-is-an-uncomfortable-position-but-certainty-is-an-absurd)
