@@ -2,6 +2,8 @@
 
 ### Feburary, 2024
 
+02/21/2024-a 突然发现approve有一个同根的反义词，i.e. disprove (v. 反驳).
+
 02/20/2024-a 学了一个新词，i.e. footgun [[ref](https://x.com/forrestbrazeal/status/1451189473383890946?s=20)]
 
 02/07/2024-a 学了一句新话，i.e. Onwards and Upwards in the New Year! (新的一年继续前行！)
