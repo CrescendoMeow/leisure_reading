@@ -6,6 +6,8 @@
 
 02/27/2024-b 我今天才知道，[expat和foreigner的区别](https://www.quora.com/Is-there-a-difference-between-a-foreigner-and-an-expat).
 
+02/27/2024-c 我今天才把dialogue和monologue这两个词联系起来。
+
 02/23/2024-a 学了一句新话，Money is a great servant but a bad master (from Francis Bacon).
 
 02/21/2024-a 突然发现approve有一个同根的反义词，i.e. disprove (v. 反驳).
