@@ -2,7 +2,9 @@
 
 ### March, 2024
 
+03/11/2024-a 了解了一下 [logistics](https://www.investopedia.com/terms/l/logistics.asp) 的确切含义。
 03/05/2024-a 学习了一下电视节目相关的词汇 [[ref](https://zhuanlan.zhihu.com/p/226374694)]
+
 ### Feburary, 2024
 
 02/27/2024-a 我今天才知道，[contradition和conflict的区别](https://www.quora.com/What-is-the-difference-between-conflict-and-contradiction).
