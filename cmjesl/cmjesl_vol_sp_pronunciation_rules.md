@@ -26,6 +26,9 @@
 - *Su*ede
 - *Su*ite
 
+### o不发音
+- Je*o*pardy, Je*o*pardize
+
 ### tr
 - *Tr*oy (特洛伊)， *Tr*ojan
 - *Tr*ump (特朗普)
