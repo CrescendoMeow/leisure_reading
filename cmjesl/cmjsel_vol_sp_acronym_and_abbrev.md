@@ -3,6 +3,7 @@
 ### Acronyms
 - AFK: Away From Keyboard
 - APR: Annual Percentage Rate
+- BTS: Behind The Scenes
 - COB: Close of Bussiness
 - COD: Cash on Delivery (货到付款)
 - EOM: End of Message
