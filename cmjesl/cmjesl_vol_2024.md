@@ -6,6 +6,8 @@
 
 03/26/2024-b 这些IB精英们真有意思，喜欢用 [color](https://english.stackexchange.com/questions/582089/what-is-the-origin-meaning-of-the-term-color-in-corporate-earnings-calls) 这个词来表示 detail 的意思.
 
+03/22/2024-a 我发现自己分不清 _panache (n. 派头，勇气)_ 和 _panacea (n. 万应锭)_ 这两个词。
+
 03/11/2024-a 了解了一下 [logistics](https://www.investopedia.com/terms/l/logistics.asp) 的确切含义。
 
 03/05/2024-a 学习了一下电视节目相关的词汇 [[ref](https://zhuanlan.zhihu.com/p/226374694)]
