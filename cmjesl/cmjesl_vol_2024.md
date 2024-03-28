@@ -2,6 +2,8 @@
 
 ### March, 2024
 
+03/27/2024-a 我今天才注意到，scavenger hunt这个单词我一直都是瞎念的。
+
 03/26/2024-a 学了一个新词 listicle (清单)。
 
 03/26/2024-b 这些IB精英们真有意思，喜欢用 [color](https://english.stackexchange.com/questions/582089/what-is-the-origin-meaning-of-the-term-color-in-corporate-earnings-calls) 这个词来表示 detail 的意思.
