@@ -1,5 +1,11 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### April, 2024
+
+04/08/2024-a 我今天才知道，停车场门口那个可升降的杆子，中文学名叫“道闸杆”，英文叫“barrier gate arm”.
+
+04/08/2024-b 我今天才知道，“猫薄荷”英语里叫 catnip.
+
 ### March, 2024
 
 03/28/2024-a 总是会弄混 desperate 和 disparate 🤦
