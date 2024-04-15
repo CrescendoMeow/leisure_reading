@@ -2,7 +2,7 @@
 
 ### April, 2024
 
-04/13/2024 我今天学会了 “That makes sense”的另一种说法，i.e. That's fair.
+04/13/2024-a 我今天学会了 “That makes sense”的另一种说法，i.e. That's fair.
 
 04/10/2024-a 学了一个新词，i.e. rain date (n. 备选日期)。与此相关的说法，还有 "I'll do a rain check".
 
