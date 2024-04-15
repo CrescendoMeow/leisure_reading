@@ -6,6 +6,10 @@
 
 04/13/2024-b 学了一个新词，i.e. book spine (书脊)。
 
+04/13/2024-c 我今天才知道，stra*te*gic 和 *stra*tegy 的重音不一样。
+
+04/13/2024-d 我今天才知道，e*ssen*tial 和 *e*ssence的重音不一样。
+
 04/10/2024-a 学了一个新词，i.e. rain date (n. 备选日期)。与此相关的说法，还有 "I'll do a rain check".
 
 04/08/2024-a 我今天才知道，停车场门口那个可升降的杆子，中文学名叫“道闸杆”，英文叫“barrier gate arm”.
