@@ -2,6 +2,8 @@
 
 ### April, 2024
 
+04/24/2024-a 我最近突然发现，把 “众议员(US Representative, the lower house of US Congress)” 直译成为“美国代表”，其实更加形象易懂。
+
 04/16/2024-a 总是记不住这个词，i.e. diurnal variation (日间变化)。
 
 04/14/2024-a 学了一个新词，run a blackline (similar to `git diff`).
