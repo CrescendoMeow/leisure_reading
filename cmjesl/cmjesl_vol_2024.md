@@ -2,6 +2,8 @@
 
 ### April, 2024
 
+04/29/2024-a 我今天才意识到，fax is short for facsimile.
+
 04/25/2024-a 学了一个新词，stumbled upon this before (之前偶然发现了这个)。
 
 04/25/2024-b 学了一个新词，never ending chase.
