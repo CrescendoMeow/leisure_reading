@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### June, 2024
+
+06/02/2024-a 学了一个新词，[beg the question](https://en.wikipedia.org/wiki/Begging_the_question).
+
 ### April, 2024
 
 04/29/2024-a 我今天才意识到，fax is short for facsimile.
