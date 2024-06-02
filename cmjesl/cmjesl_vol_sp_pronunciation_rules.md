@@ -32,3 +32,6 @@
 ### tr
 - *Tr*oy (特洛伊)， *Tr*ojan
 - *Tr*ump (特朗普)
+
+### V vs W
+- 'Variable & 'Wearable (The stress of both words are on the first syllable.)
