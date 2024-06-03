@@ -6,6 +6,8 @@
 
 06/02/2024-b 我今天才知道，when "minute" is used as adjective and means "small amount of", it is pronunciated as "my-NOOT".
 
+06/03/2024-c 学了一个新词，i.e. icing on the cake (锦上添花). [[ref](https://x.com/docmilanfar/status/1674280914250272768)]
+
 ### April, 2024
 
 04/29/2024-a 我今天才意识到，fax is short for facsimile.
