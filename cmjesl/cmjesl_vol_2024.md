@@ -2,6 +2,8 @@
 
 ### June, 2024
 
+06/06/2024-a 我今天才意识到，doodle对应汉语里的“涂鸦”。
+
 06/02/2024-a 学了一个新词，[beg the question](https://en.wikipedia.org/wiki/Begging_the_question).
 
 06/02/2024-b 我今天才知道，when "minute" is used as adjective and means "small amount of", it is pronunciated as "my-NOOT".
