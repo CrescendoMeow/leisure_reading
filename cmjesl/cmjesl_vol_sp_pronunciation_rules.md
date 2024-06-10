@@ -10,6 +10,10 @@
 - A*dj*ective, A*dj*acent
 - *Dj*ango
 
+### G不发音
+
+- *G*narly (adj. 粗糙的)
+
 ### H不发音
 
 - Fa*h*renheit
