@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### July, 2024
+
+07/01/2024-a 学了一个新词，i.e. from the get-go (i.e. from the very beginning). [[ref](https://www.dictionary.com/browse/get-go)]
+
 ### June, 2024
 
 06/06/2024-a 我今天才意识到，doodle对应汉语里的“涂鸦”。
