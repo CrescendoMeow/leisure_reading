@@ -2,6 +2,8 @@
 
 ### July, 2024
 
+07/11/2024-a 学了一个新词，i.e. gear something towards somebody. [[ref](https://www.oxfordlearnersdictionaries.com/us/definition/english/gear-towards)]
+
 07/01/2024-a 学了一个新词，i.e. from the get-go (i.e. from the very beginning). [[ref](https://www.dictionary.com/browse/get-go)]
 
 ### June, 2024
