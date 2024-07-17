@@ -2,6 +2,8 @@
 
 ### July, 2024
 
+07/16/2024-a 学了一个新词，i.e. [carvery](https://en.wikipedia.org/wiki/Carvery).
+
 07/12/2024-a 学了一个新词，i.e. h/t (hat tip), which has a similar meaning of "credit to". [[ref](https://www.dictionary.com/e/acronyms/h-t/)]
 
 07/11/2024-a 学了一个新词，i.e. gear something towards somebody. [[ref](https://www.oxfordlearnersdictionaries.com/us/definition/english/gear-towards)]
