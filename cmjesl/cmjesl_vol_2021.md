@@ -187,9 +187,7 @@ BTW. 在指纹、人脸被大量滥用的今天，以后需要特殊生物信息
 
 03/09/2021 十多年过去了，自己还是分不清adopt和adapt
 
-03/07/2021-a 我今天才知道preferable, formidable, comparable, applicable重音都在第一个音节，之前一直念错了。
-
-03/07/2021-b 我今天才知道preferable, formidable, comparable, applicable重音都在第一个音节，之前一直念错了
+03/07/2021 我今天才知道preferable, formidable, comparable, applicable重音都在第一个音节，之前一直念错了。
 
 03/04/2021 我今天才知道“表字”不应该翻译为nickname，而应该翻译为courtesy name（顿时感觉高大上了不少)
 
