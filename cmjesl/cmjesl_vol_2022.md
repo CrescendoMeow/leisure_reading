@@ -130,8 +130,6 @@
 
 06/21/2022-a 我今天才知道，除了commencement，毕业典礼还有一种叫法是convocation.
 
-06/27/2022-a 我今天才知道，“管裁员叫毕业”的这种行为，英语里叫[doublespeak](https://en.wikipedia.org/wiki/Doublespeak)
-
 06/20/2022-a 我今天才意识到，ape是猿，chimp是黑猩猩。
 
 06/19/2022-a 我今天才意识到，GUI应该读作“故-衣”。
