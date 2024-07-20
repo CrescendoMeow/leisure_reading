@@ -27,6 +27,7 @@
 - *G*narly (adj. 粗糙的)
 
 ### G sounds like /j/
+- a*g*ile
 - di*g*it, di*g*ital
 - gau*g*e
 - *g*el, *g*elato 
