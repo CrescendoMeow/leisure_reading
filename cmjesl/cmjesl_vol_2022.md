@@ -28,7 +28,7 @@
 
 10/09/2022-a 我突然发现，我每次买肉/点菜时，总会把loin自动parse成lion🤦‍♀️
 
-10/02/2022-a 很好奇英语里应该怎么翻译“逛街”这个词呢？感觉不管是shopping还是window-shopping都体现不出来中文里“逛街”那种leisure-and-chill的感觉。
+10/02/2022-a 很好奇英语里应该怎么翻译“逛街”这个词呢？感觉不管是shopping还是window-shopping都体现不出来中文里“逛街”那种leisure-and-chill的感觉。(后续: 2023-2024年有一个流行词叫“City Walk”)
 
 10/01/2022-a 学了一个新词，i.e. [a nail in one's coffin](https://www.merriam-webster.com/dictionary/a%20nail%20in%20the%2Fsomeone%27s%20coffin).
 
