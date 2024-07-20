@@ -15,6 +15,30 @@
 - India'*na*polis, Me'*tro*polis
 - stra'*te*gic vs '*stra*tegy
 
+### 发音相近的单词
+- Career vs Korea
+- Celery vs Salary
+- Chef vs Chief
+- Chute vs Shoot
+- Lattice vs Lettuce
+- Matrix vs Metrics
+- Measles vs Missile
+- Muscle vs Mussel
+- Nacho vs Natural
+- Pare vs Pear
+- Plato vs Pluto
+- Profit vs Prophet
+- Reveal vs Review
+- Steer vs Stir
+- Toe vs Tow
+- Variable vs Wearable
+
+### B不发音
+- Su*b*tle
+
+### D不发音
+- Han*d*kerchief
+
 ### DJ sounds like J
 - A*dj*ective, A*dj*acent
 - *Dj*ango
@@ -33,8 +57,9 @@
 - *g*el, *g*elato 
 
 ### H不发音
+- ex*h*ibit, ex*h*ilarate
 - Fa*h*renheit
-- *H*erb
+- *H*erb, *H*eir, *H*ermes
 - 'r*h*etoric, r*h*e'torical
 - ve*h*icle
 
@@ -52,6 +77,7 @@
 
 ### P不发音
 - *P*tolemy (托勒密)
+- *P*seudo
 
 ### t不发音
 - Buffe*t*
