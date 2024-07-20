@@ -20,6 +20,10 @@
 
 - *G*narly (adj. 粗糙的)
 
+### G sounds like /j/
+
+- gel, digit, digital
+
 ### H不发音
 
 - Fa*h*renheit
