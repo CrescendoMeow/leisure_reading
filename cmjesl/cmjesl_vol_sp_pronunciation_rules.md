@@ -8,6 +8,7 @@
 ### 重音 Stress
 - '*Ad*vert, '*Ad*vertise, '*Ad*verse, '*Ad*versary 
 - '*Ap*plicable, '*Com*parable, '*For*midable, '*Pre*ferable
+- A'*ri*thmetic
 - A'*ssu*rance, In'*su*rance
 - e'*ssen*tial vs '*e*ssence
 - fa'*ti*gue
