@@ -5,6 +5,11 @@
 - [每个英语字母都可能是令人气恼的不发音的](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1)
 - [BBC：中国人的英语口音](https://www.douban.com/group/topic/13750726)
 
+### 重音 Stress
+
+- stra'*te*gic vs '*stra*tegy
+- e'*ssen*tial vs '*e*ssence
+
 ### DJ sounds like J
 
 - A*dj*ective, A*dj*acent
