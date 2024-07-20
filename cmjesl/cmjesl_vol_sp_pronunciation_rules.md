@@ -6,26 +6,21 @@
 - [BBC：中国人的英语口音](https://www.douban.com/group/topic/13750726)
 
 ### 重音 Stress
-
 - stra'*te*gic vs '*stra*tegy
 - e'*ssen*tial vs '*e*ssence
 - India'*na*polis, Me'*tro*polis
 
 ### DJ sounds like J
-
 - A*dj*ective, A*dj*acent
 - *Dj*ango
 
 ### G不发音
-
 - *G*narly (adj. 粗糙的)
 
 ### G sounds like /j/
-
 - gel, digit, digital
 
 ### H不发音
-
 - Fa*h*renheit
 - *H*erb
 - 'r*h*etoric, r*h*e'torical
@@ -42,6 +37,9 @@
 
 ### o不发音
 - Je*o*pardy, Je*o*pardize
+
+### t不发音
+- Mor*t*gage
 
 ### tr
 - *Tr*oy (特洛伊)， *Tr*ojan
