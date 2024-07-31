@@ -10,10 +10,12 @@
 - '*Ap*plicable, '*Com*parable, '*For*midable, '*Pre*ferable
 - A'*ri*thmetic
 - A'*ssu*rance, In'*su*rance
-- e'*ssen*tial vs '*e*ssence
 - fa'*ti*gue
 - India'*na*polis, Me'*tro*polis
-- stra'*te*gic vs '*stra*tegy
+- Noun vs Adjective
+  - '*e*ssence vs e'*ssen*tial
+  - '*pa*rent vs pa'*ren*tal
+  - '*stra*tegy vs stra'*te*gic
 
 ### 发音相近的单词
 - Career vs Korea
