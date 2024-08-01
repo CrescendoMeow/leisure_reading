@@ -4,6 +4,8 @@
 
 07/31/2024-a 学了一个新词，i.e. go off on a tangent == go off track (离题，失控).
 
+07/31/2024-b infectious smile v.s. contagious yawn.
+
 07/16/2024-a 学了一个新词，i.e. [carvery](https://en.wikipedia.org/wiki/Carvery).
 
 07/12/2024-a 学了一个新词，i.e. h/t (hat tip), which has a similar meaning of "credit to". [[ref](https://www.dictionary.com/e/acronyms/h-t/)]
