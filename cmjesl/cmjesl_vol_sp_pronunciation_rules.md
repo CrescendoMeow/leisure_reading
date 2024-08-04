@@ -51,16 +51,18 @@
   - *H*erb, *H*eir, *H*ermes
   - 'r*h*etoric, r*h*e'torical
   - ve*h*icle
-- o不发音
+- O不发音
   - Je*o*pardy, Je*o*pardize
 - P不发音
   - *P*tolemy (托勒密)
   - *P*seudo
-- t不发音
+- R不发言
+  - Feb*r*uary 
+- T不发音
   - Buffe*t*
   - Bus*t*le, Cas*t*le, Hus*t*le
   - Mor*t*gage 
-- u不发音
+- U不发音
   - ga*u*ge
 
 ### DJ sounds like J
