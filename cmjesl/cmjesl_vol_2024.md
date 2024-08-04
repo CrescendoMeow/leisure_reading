@@ -2,7 +2,7 @@
 
 ### August, 2024
 
-08/04/2024-a 学了一个新词，[exciting white](https://knowyourmeme.com/memes/exciting-whites)
+08/04/2024-a 学了一个新词，[exciting whites](https://knowyourmeme.com/memes/exciting-whites)
 
 ### July, 2024
 
