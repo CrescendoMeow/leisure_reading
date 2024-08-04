@@ -36,7 +36,7 @@
 
 ### 这个字母不发音
 - Reference
-  - [每个英语字母都可能是令人气恼的不发音的](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1)
+  - 每个英语字母都可能是令人气恼的不发音的 (A Blog from Merriam-Webster) [English Version](https://www.merriam-webster.com/grammar/mums-the-letter-when-letters-dont-say-a-thing) | Chinese Version: [[Part1]](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1)[[Part2]](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1)
 - B不发音
   - Su*b*tle
 - D不发音
