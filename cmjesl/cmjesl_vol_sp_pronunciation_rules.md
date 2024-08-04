@@ -59,9 +59,12 @@
 - R不发言
   - Feb*r*uary 
 - T不发音
-  - Buffe*t*
-  - Bus*t*le, Cas*t*le, Hus*t*le
-  - Mor*t*gage 
+  - Balle*t*, Buffe*t*
+  - Bus*t*le, Cas*t*le, Hus*t*le, Whis*t*le
+  - Lis*t*en
+  - Mor*t*gage
+- th不发音
+  - As*th*ma 
 - U不发音
   - ga*u*ge
 
