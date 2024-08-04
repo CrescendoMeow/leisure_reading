@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### August, 2024
+
+08/04/2024-a 学了一个新词，[exciting white](https://knowyourmeme.com/memes/exciting-whites)
+
 ### July, 2024
 
 07/31/2024-a 学了一个新词，i.e. go off on a tangent == go off track (离题，失控).
