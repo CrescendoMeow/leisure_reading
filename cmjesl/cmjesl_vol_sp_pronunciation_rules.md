@@ -40,7 +40,7 @@
     - [English Version](https://www.merriam-webster.com/grammar/mums-the-letter-when-letters-dont-say-a-thing)
     - Chinese Version: [Part1](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1) | [Part2](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1)
 - B不发音
-  - Su*b*tle
+  - De*b*t, Su*b*tle
 - D不发音
   - Han*d*kerchief
 - G不发音
