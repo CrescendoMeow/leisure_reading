@@ -56,8 +56,10 @@
 - P不发音
   - *P*tolemy (托勒密)
   - *P*seudo
-- R不发言
-  - Feb*r*uary 
+- R不发音
+  - Feb*r*uary
+- S不发音
+  - Illinoi*s* 
 - T不发音
   - Balle*t*, Buffe*t*
   - Bus*t*le, Cas*t*le, Hus*t*le, Whis*t*le
