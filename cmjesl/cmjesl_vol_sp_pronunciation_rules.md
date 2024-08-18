@@ -42,6 +42,7 @@
 - B不发音
   - De*b*t, Su*b*tle
 - D不发音
+  - A*d*jective, A*d*jacent, *D*jango (ahead of j)
   - Han*d*kerchief
 - G不发音
   - *G*narly (adj. 粗糙的)
@@ -71,8 +72,7 @@
   - ga*u*ge
 
 ### DJ sounds like J
-- A*dj*ective, A*dj*acent
-- *Dj*ango
+
 
 ### E sounds like /a/ at the beginning of a word
 - *E*ncore
