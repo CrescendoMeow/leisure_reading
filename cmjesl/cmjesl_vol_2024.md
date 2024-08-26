@@ -2,6 +2,8 @@
 
 ### August, 2024
 
+08/26/2024-a 学了一个新词，[if at all](https://ell.stackexchange.com/questions/223055/if-at-all-what-would-this-phrase-mean-in-a-context).
+
 08/04/2024-a 学了一个新词，[exciting whites](https://knowyourmeme.com/memes/exciting-whites)
 
 ### July, 2024
