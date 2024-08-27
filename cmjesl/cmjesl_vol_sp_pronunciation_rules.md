@@ -62,7 +62,7 @@
 - S不发音
   - Illinoi*s* 
 - T不发音
-  - Balle*t*, Buffe*t*
+  - Balle*t*, Buffe*t*, Croissan*t*, Rappor*t*
   - Bus*t*le, Cas*t*le, Hus*t*le, Whis*t*le
   - Lis*t*en
   - Mor*t*gage
