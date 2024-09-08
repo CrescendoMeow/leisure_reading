@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### September, 2024
+
+09/08/2024-a 我今天才知道，vanity这个单词，除了有“虚荣”的意思之外，还可以指“(洗漱间里的)梳妆台”。
+
 ### August, 2024
 
 08/26/2024-a 学了一个新词，[if at all](https://ell.stackexchange.com/questions/223055/if-at-all-what-would-this-phrase-mean-in-a-context).
