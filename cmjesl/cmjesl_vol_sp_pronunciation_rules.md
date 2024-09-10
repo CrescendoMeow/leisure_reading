@@ -43,7 +43,7 @@
 - B不发音
   - De*b*t, Su*b*tle
 - D不发音
-  - A*d*jective, A*d*jacent, *D*jango (ahead of j)
+  - A*d*jective, A*d*jacent, A*d*just, *D*jango (ahead of j)
   - Han*d*kerchief
 - G不发音
   - *G*narly (adj. 粗糙的)
