@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### November, 2024
+
+11/30/2024-a 我今天才发现，我一直分不清 [grid和gird](https://wikidiff.com/gird/grid).
+
 ### September, 2024
 
 09/26/2024-a 我今天才意识到，“吸管”和“稻草”都对应同一个单词，i.e. straw.
