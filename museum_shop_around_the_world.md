@@ -31,5 +31,8 @@ To list the museum shops I've visited before or I hope to visit some day.
 - [Getty Museum](https://shop.getty.edu/)
 - [Hungington Museum](https://thehuntingtonstore.org/)
 
+### New York City
+- [MET](https://store.metmuseum.org/jewelry-watches/pins)
+
 ### San Fransisco
 - [MOMA](https://museumstore.sfmoma.org/)
