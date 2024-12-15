@@ -20,6 +20,7 @@
 > -- *Lyrics Quoted from* ***The Sound of Music***
 
 - 我今天才意识到Gone With The Wind里主人公的名字都对应着颜色，而且CP之间还是相同的色系，i.e., Scarlett (猩红), Rhett(红), Melanie (黑), Ashley (灰).
+- 我今天才知道，Javier is the Spanish spelling of the masculine name Xavier.
 - 当我意识到“强生”和“约翰逊”都对应同一个单词(Johnson)之后，瞬间对某家日化用品公司去魅了。
 - 我最近才知道Joe,Joey,Joseph都是同一个名字。
 - 每当我想到Julian（于连）和Juliet（茱丽叶）是同名不同款的时候，那两个虚拟的时空，便在我的头脑里，串台了。
