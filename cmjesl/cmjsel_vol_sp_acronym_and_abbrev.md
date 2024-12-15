@@ -1,6 +1,7 @@
 ## 缩写 ｜ Special Vol on Acronym and Abbreviation, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
 ### Acronyms
+- ABCD: American-Born Confused Desi
 - AFK: Away From Keyboard
 - APR: Annual Percentage Rate
 - ATH: All Time High
