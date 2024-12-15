@@ -4,6 +4,9 @@
 
 11/30/2024-a 我今天才发现，我一直分不清 [grid和gird](https://wikidiff.com/gird/grid).
 
+### October, 2024
+10/04/2024-a 学了一个新词，i.e. foliage.
+
 ### September, 2024
 
 09/26/2024-a 我今天才意识到，“吸管”和“稻草”都对应同一个单词，i.e. straw.
