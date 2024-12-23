@@ -79,6 +79,9 @@
 - *E*ncore
 - *E*nsemble
 
+### G sounds like /g/
+- *g*ear, *g*irl
+
 ### G sounds like /j/
 - a*g*ile
 - di*g*it, di*g*ital
