@@ -1,5 +1,9 @@
 ## Vol 2024, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### December, 2024
+
+12/23/2024-a 我今天才意识到，appreciate和depreciate可以一块记。
+
 ### November, 2024
 
 11/30/2024-a 我今天才发现，我一直分不清 [grid和gird](https://wikidiff.com/gird/grid).
