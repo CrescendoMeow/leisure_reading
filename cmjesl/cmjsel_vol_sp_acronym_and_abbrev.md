@@ -18,6 +18,7 @@
 - MNC: [Multi-National Corporation](https://www.investopedia.com/terms/m/multinationalcorporation.asp)
 - N/A: Not Applicable
 - NG: No Good in filming/movie. It is [not understandable in American English, but commonly used in Japanese English](https://ell.stackexchange.com/questions/147040/is-ng-no-good-correct-english).
+- OOTB: [Out-Of-The-Box](https://en.wikipedia.org/wiki/Out_of_the_box_(feature)).
 - SMART: Specific, Measurable, Attainable/Achievable, Realistic, Time-Bound
 - SOP: Standard Operation Procedure (标准操作流程)
 - TBD: To Be Determined
