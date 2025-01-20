@@ -63,7 +63,7 @@
 - S不发音
   - Illinoi*s* 
 - T不发音
-  - Balle*t*, Buffe*t*, Croissan*t*, Rappor*t*
+  - Balle*t*, Buffe*t*, Croissan*t*, Rappor*t*, Vale*t*
   - Bus*t*le, Cas*t*le, Hus*t*le, Whis*t*le
   - Lis*t*en
   - Mor*t*gage
@@ -71,9 +71,6 @@
   - As*th*ma 
 - U不发音
   - ga*u*ge
-
-### DJ sounds like J
-
 
 ### E sounds like /a/ at the beginning of a word
 - *E*ncore
