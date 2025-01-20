@@ -31,6 +31,7 @@
 - Plato vs Pluto
 - Profit vs Prophet
 - Reveal vs Review
+- Sanity vs Senate
 - Steer vs Stir
 - Toe vs Tow
 - Variable vs Wearable
