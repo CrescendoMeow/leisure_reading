@@ -35,3 +35,7 @@
 
 ### Abbreviations (Tech)
 - Statement: stmt
+
+### Dirty Words
+- F-word
+- R-word [[ref](https://www.specialolympics.org/stories/impact/why-the-r-word-is-the-r-slur)]
