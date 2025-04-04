@@ -5,6 +5,7 @@
 - AFK: Away From Keyboard
 - APR: Annual Percentage Rate
 - ATH: All Time High
+- BRB: Be Right Back!
 - BTS: Behind The Scenes
 - COB: Close of Bussiness
 - COD: Cash on Delivery (货到付款)
