@@ -16,6 +16,7 @@
 - KISS: Keep It Short and Simple
 - KPI: Key Performance Indicator
 - MIA: Missing In Action
+- MECE: Mutually Exclusive and Collectively Exhaustive
 - MNC: [Multi-National Corporation](https://www.investopedia.com/terms/m/multinationalcorporation.asp)
 - N/A: Not Applicable
 - NG: No Good in filming/movie. It is [not understandable in American English, but commonly used in Japanese English](https://ell.stackexchange.com/questions/147040/is-ng-no-good-correct-english).
