@@ -1,5 +1,9 @@
 ## Vol 2025, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### May, 2025
+
+05/01/2025-a 学了一个新词，[special sauce](https://dictionary.cambridge.org/us/dictionary/english/secret-sauce), i.e. a special quality that makes something successful.
+
 ### March, 2025
 
 03/27/2025-a 学了一个新的缩写 re. = regarding to [[ref]](https://english.stackexchange.com/questions/2517/regarding-re-what-is-the-correct-usage-in-an-email-subject-line)
