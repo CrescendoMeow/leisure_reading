@@ -2,9 +2,11 @@
 
 ### May, 2025
 
-05/13/2025-a 学了一个新词，[break the glass](https://www.dictionary.com/e/slang/break-the-glass/)
+05/13/2025-a 学了一个新词，i.e. [break the glass](https://www.dictionary.com/e/slang/break-the-glass/).
 
-05/01/2025-a 学了一个新词，[special sauce](https://dictionary.cambridge.org/us/dictionary/english/secret-sauce), i.e. a special quality that makes something successful.
+05/13/2034-b 学了一个新词，i.e. Time to make the donut (from [Fred the Baker](https://en.m.wikipedia.org/wiki/Fred_the_Baker)).
+
+05/01/2025-a 学了一个新词，i.e. [special sauce](https://dictionary.cambridge.org/us/dictionary/english/secret-sauce), i.e. a special quality that makes something successful.
 
 ### March, 2025
 
