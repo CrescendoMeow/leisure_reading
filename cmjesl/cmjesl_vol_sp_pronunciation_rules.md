@@ -9,8 +9,10 @@
 - '*Ap*plicable, '*Com*parable, '*For*midable, '*Pre*ferable
 - A'*ri*thmetic
 - A'*ssu*rance, In'*su*rance
-- fa'*ti*gue
+- E'*li*te
+- Fa'*ti*gue
 - India'*na*polis, Me'*tro*polis
+- '*La*vender
 - Noun vs Adjective
   - '*e*ssence vs e'*ssen*tial
   - '*pa*rent vs pa'*ren*tal
