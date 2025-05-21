@@ -13,6 +13,7 @@
 - Fa'*ti*gue
 - India'*na*polis, Me'*tro*polis
 - '*La*vender
+- Spo'*ra*dic, Zo'*ra*dic
 - Noun vs Adjective
   - '*e*ssence vs e'*ssen*tial
   - '*pa*rent vs pa'*ren*tal
