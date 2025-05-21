@@ -66,6 +66,7 @@
 - R不发音
   - Feb*r*uary
 - S不发音
+  - Ai*s*le
   - Illinoi*s* 
 - T不发音
   - Balle*t*, Buffe*t*, Croissan*t*, Rappor*t*, Vale*t*
