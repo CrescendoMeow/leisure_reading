@@ -2,6 +2,10 @@
 
 ### May, 2025
 
+05/21/2025-a 学了一个新词，i.e. Live on the bleeding edge!
+
+05/18/2025-a 学了一个新词，i.e. Don't ruminate!
+
 05/13/2025-a 学了一个新词，i.e. [break the glass](https://www.dictionary.com/e/slang/break-the-glass/).
 
 05/13/2034-b 学了一个新词，i.e. Time to make the donut (from [Fred the Baker](https://en.m.wikipedia.org/wiki/Fred_the_Baker)).
