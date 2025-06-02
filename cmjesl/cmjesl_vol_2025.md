@@ -2,7 +2,7 @@
 
 ### May, 2025
 
-05/31/2025-a 学了一个新词，[discharge only](https://www.reddit.com/r/nycrail/comments/1eu5mqh/boarding_a_discharge_only_d_or_primary_discharge/).
+05/31/2025-a 学了一个新词，i.e. [discharge only](https://www.reddit.com/r/nycrail/comments/1eu5mqh/boarding_a_discharge_only_d_or_primary_discharge/).
 
 05/21/2025-a 学了一个新词，i.e. Live on the bleeding edge!
 
