@@ -38,6 +38,7 @@
 - Steer vs Stir
 - Toe vs Tow
 - Variable vs Wearable
+- Vibe vs Web
 - Wendy vs Windy
 
 ### 这个字母不发音
