@@ -1,5 +1,9 @@
 ## Vol 2025, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### July, 2025
+
+07/04/2025-a 学了一个新词，WASP = White Anglo-Saxon Protestant.
+
 ### May, 2025
 
 05/31/2025-a 学了一个新词，i.e. [discharge only](https://www.reddit.com/r/nycrail/comments/1eu5mqh/boarding_a_discharge_only_d_or_primary_discharge/).
