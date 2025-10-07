@@ -25,6 +25,7 @@
 - SMART: Specific, Measurable, Attainable/Achievable, Realistic, Time-Bound
 - SOP: Standard Operation Procedure (标准操作流程)
 - TBD: To Be Determined
+- YMMV: Your Mileage May Vary.
 - YTD: Year To Date
 
 ### Abbreviations (Non-tech)
