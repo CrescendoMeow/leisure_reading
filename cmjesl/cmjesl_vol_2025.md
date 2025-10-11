@@ -1,5 +1,9 @@
 ## Vol 2025, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### October, 2025
+
+10/11/2025-a 最近发现，自己总是分不清fluke (比目鱼) 和 flute (长笛).
+
 ### July, 2025
 
 07/04/2025-a 学了一个新词，WASP = White Anglo-Saxon Protestant.
