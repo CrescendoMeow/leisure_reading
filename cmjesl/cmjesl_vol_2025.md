@@ -4,6 +4,8 @@
 
 10/25/2025-a 我今天才发现，democratic (民主) 的反义词应该是 autocratic (专制)。
 
+10/25/2025-b 我今天才把 expend (v.) 和 expenditure (n.) 这两个单词联系起来。
+
 10/11/2025-a 最近发现，自己总是分不清fluke (比目鱼) 和 flute (长笛).
 
 ### July, 2025
