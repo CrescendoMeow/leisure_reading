@@ -10,6 +10,7 @@
 - COB: Close of Bussiness
 - COD: Cash on Delivery (货到付款)
 - EOM: End of Message
+- FKA: Formly Known As
 - FWIW: For What it's Worth (再说一句)
 - HVAC: Heating, Ventilation, and Air Conditioning
 - HQ: HeadQuarter
