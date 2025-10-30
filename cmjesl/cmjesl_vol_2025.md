@@ -2,6 +2,8 @@
 
 ### October, 2025
 
+10/29/2025-a 学了一个新词，frenemy (敌密)。
+
 10/25/2025-a 我今天才发现，democratic (民主) 的反义词应该是 autocratic (专制)。
 
 10/25/2025-b 我今天才把 expend (v.) 和 expenditure (n.) 这两个单词联系起来。
