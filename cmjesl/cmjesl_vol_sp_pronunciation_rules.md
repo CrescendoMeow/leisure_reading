@@ -14,6 +14,7 @@
 - India'*na*polis, Me'*tro*polis
 - '*La*vender
 - Spo'*ra*dic, Zo'*ra*dic
+- Su'*per*b, Su'*per*fluous
 - Noun vs Adjective
   - '*e*ssence vs e'*ssen*tial
   - '*pa*rent vs pa'*ren*tal
