@@ -2,6 +2,8 @@
 
 ### November, 2025
 
+11/16/2025-a mask + parade = masquerade
+
 11/12/2025-a 学了一个新词，limbo (n. 炼狱).
 
 11/02/2025-a 我今天才知道shortbread里的short，来自于 [shortening]([url](https://en.wikipedia.org/wiki/Shortening)) (n. 黄油、脂肪 🧈).
