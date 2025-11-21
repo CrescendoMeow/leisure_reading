@@ -21,11 +21,13 @@
   - '*stra*tegy vs stra'*te*gic
 
 ### 发音相近的单词
+- Alias vs Allies
 - Career vs Korea
 - Celery vs Salary
 - Chef vs Chief
 - Chute vs Shoot
 - Gone vs Gown
+- Hassle vs Hustle
 - Lattice vs Lettuce
 - Matrix vs Metrics
 - Measles vs Missile
