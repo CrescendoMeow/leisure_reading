@@ -2,6 +2,7 @@
 
 The posts here contain the random pieces in my ESL life. Some pieces are related to the academic research or general technology in computer science, others are applicable for more general audience. The following volumes are available now, i.e.
 
+- [Vol 2026](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_2026.md)
 - [Vol 2025](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_2025.md)
 - [Vol 2024](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_2024.md)
 - [Vol 2023](https://github.com/CrescendoMeow/leisure_reading/blob/main/cmjesl/cmjesl_vol_2023.md)
