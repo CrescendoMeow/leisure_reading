@@ -63,7 +63,7 @@
   - Fa*h*renheit
   - *H*erb, *H*eir, *H*ermes
   - 'r*h*etoric, r*h*e'torical
-  - ve*h*icle
+  - ve*h*icle, ve*h*ement
 - O不发音
   - Je*o*pardy, Je*o*pardize
 - P不发音
