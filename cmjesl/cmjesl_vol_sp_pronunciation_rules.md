@@ -42,6 +42,7 @@
 - Steer vs Stir
 - Toe vs Tow
 - Variable vs Wearable
+- Vertex vs Vortex
 - Vibe vs Web
 - Wendy vs Windy
 
