@@ -54,6 +54,7 @@
     - Chinese Version: [Part1](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1) | [Part2](https://wap.sciencenet.cn/blog-1557-1343033.html?mobile=1)
 - B不发音
   - De*b*t, Su*b*tle
+  - Com*b*, Wom*b*
 - D不发音
   - A*d*jective, A*d*jacent, A*d*just, *D*jango (ahead of j)
   - Han*d*kerchief
