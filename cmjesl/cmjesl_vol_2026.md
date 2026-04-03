@@ -1,5 +1,9 @@
 ## Vol 2026, CrescendoMeow's Journal of English as a Second Language (CMJESL)
 
+### April, 2026
+
+04/03/2026-a 有娃以后学会的新单词 [[ref](https://www.reddit.com/r/EnglishLearning/s/ykQ0kmRWY8)]
+
 ### February, 2026
 
 02/20/2026-a 学了一个新词，turtleneck sweater (高领毛衣)。
