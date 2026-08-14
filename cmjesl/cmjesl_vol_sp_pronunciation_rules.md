@@ -61,7 +61,8 @@
 - G不发音
   - *G*narly (adj. 粗糙的)
 - H不发音
-  - ex*h*ibit, ex*h*ilarate
+  - ex*h*ibit, in*h*ibit
+  - ex*h*ilarate
   - Fa*h*renheit
   - *H*erb, *H*eir, *H*ermes
   - 'r*h*etoric, r*h*e'torical
