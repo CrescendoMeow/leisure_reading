@@ -11,6 +11,7 @@
 - A'*ssu*rance, In'*su*rance
 - E'*li*te
 - Fa'*ti*gue
+- Hi'*a*tus
 - India'*na*polis, Me'*tro*polis
 - '*La*vender
 - Spo'*ra*dic, Zo'*ra*dic
