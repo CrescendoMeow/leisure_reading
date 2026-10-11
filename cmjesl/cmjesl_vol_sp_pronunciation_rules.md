@@ -38,6 +38,7 @@
 - Pare vs Pear
 - Plato vs Pluto
 - Please vs Police
+- President vs Precedent
 - Profit vs Prophet
 - Reveal vs Review
 - Sanity vs Senate
