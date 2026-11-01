@@ -80,7 +80,7 @@
   - Ai*s*le
   - Illinoi*s* 
 - T不发音
-  - Balle*t*, Buffe*t*, Croissan*t*, Gourme*t*, Ra'ppor*t*, Vale*t*
+  - Balle*t*, Buffe*t*, Croissan*t*, Croche*t*, Gourme*t*, Ra'ppor*t*, Vale*t*
   - Bus*t*le, Cas*t*le, Hus*t*le, Lis*t*en, Whis*t*le
   - Mor*t*gage
 - th不发音
