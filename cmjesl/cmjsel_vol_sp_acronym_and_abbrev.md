@@ -14,6 +14,7 @@
 - FWIW: For What it's Worth (再说一句)
 - HVAC: Heating, Ventilation, and Air Conditioning
 - HQ: HeadQuarter
+- JFYI: Just For Your Information
 - KISS: Keep It Short and Simple
 - KPI: Key Performance Indicator
 - MIA: Missing In Action
